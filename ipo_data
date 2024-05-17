@@ -1,0 +1,1748 @@
+ticker,ipoDate,name,ipoPrice,current_price,return
+SXTC,2019-01-04,"China SXT Pharmaceuticals, Inc.",4.0,1.08,-73.0
+MDJH,2019-01-08,MDJM Ltd,5.0,1.11,-77.8
+MTC,2019-01-08,"MMTec, Inc.",4.0,6.01,50.25
+BCOW,2019-01-09,"1895 Bancorp of Wisconsin, Inc.",10.0,7.16,-28.4
+RBKB,2019-01-17,"Rhinebeck Bancorp, Inc.",10.0,7.52,-24.6
+NFE,2019-01-31,New Fortress Energy Inc.,14.0,26.08,86.28571
+GMHI,2019-02-01,Gores Metropoulos,10.0,18.0,80.0
+INMB,2019-02-04,"INmune Bio, Inc.",8.0,11.17,39.625
+IPV,2019-02-04,InterPrivate Acquisition,10.0,13.04,30.399999999999984
+MNCL,2019-02-07,Monocle Acquisition Corporation,10.0,12.2,21.999999999999996
+ALEC,2019-02-07,"Alector, Inc.",19.0,5.49,-71.10526
+RMG,2019-02-08,RMG Acquisition Corp.,10.0,27.0,170.00000000000003
+GOSS,2019-02-08,"Gossamer Bio, Inc.",16.0,0.73,-95.4375
+HARP,2019-02-08,"Harpoon Therapeutics, Inc.",14.0,23.01,64.35714
+ANCN,2019-02-12,Anchiano Therapeutics,11.5,75.36,555.304347826087
+BACK,2019-02-13,"IMAC Holdings, Inc.",5.125,3.14,-38.73171
+TCRR,2019-02-14,TCR2 Therapeutics Inc.,15.0,1.48,-89.8
+AVDR,2019-02-14,"Avedro, Inc.",14.0,22.99,64.21428571428571
+MITO,2019-02-15,Stealth BioTherapeutics Corp.,12.0,0.32,-97.33333333333334
+HOTH,2019-02-15,"Hoth Therapeutics, Inc.",5.6,1.19,-78.75
+AREC,2019-02-15,American Resources Corporation,4.0,1.31,-67.25
+SOLY,2019-02-19,"Soliton, Inc.",5.0,22.58,351.6
+ACAM,2019-02-22,Acamar Partners Acquisition Corp.,10.0,12.3,23.0
+SLE,2019-02-26,"Super League Enterprise, Inc.",11.0,1.39,-87.36364
+DPHC,2019-02-28,DiamondPeak Holdings,10.0,18.21,82.10000000000002
+KLDO,2019-02-28,"Kaleido Biosciences, Inc.",15.0,0.29,-98.06666666666666
+SHLL,2019-02-28,Tortoise Acquisition Corp.,10.0,44.91,349.09999999999997
+HCAC,2019-03-01,Hennessy Capital Acquisition Corp IV,10.0,19.49,94.89999999999998
+THCB,2019-03-05,Tuscan Holdings Corp.,10.0,10.0,
+SWAV,2019-03-07,"ShockWave Medical, Inc.",17.0,330.88,1846.35294
+CRSA,2019-03-08,Crescent Acquisition Corp.,10.0,8.81,-11.899999999999999
+FUTU,2019-03-08,Futu Holdings Limited,12.0,77.78,548.16667
+TRNE,2019-03-15,Trine Acquisition,10.0,24.77,147.7
+INSU,2019-03-20,Insurance Acquisition,10.0,11.66,16.599999999999994
+TIGR,2019-03-20,UP Fintech Holding Limited,8.0,4.42,-44.75
+LEVI,2019-03-21,Levi Strauss & Co.,17.0,22.2,30.58824
+GNFT,2019-03-27,Genfit S.A.,22.0,3.8,-82.72727
+DTIL,2019-03-28,"Precision BioSciences, Inc.",16.0,11.98,-25.125
+JFK,2019-03-28,8i Enterprises Acquisition,10.0,9.0,-9.999999999999998
+WTRE,2019-03-28,Watford Holdings Ltd.,25.26,34.99,38.51939825811559
+HPH,2019-03-29,Highest Performances Holdings Inc.,,9.0,
+LYFT,2019-03-29,"Lyft, Inc.",72.0,16.95,-76.45833
+XTKG,2019-04-02,X3 Holdings Co Ltd.,,0.77,
+RUHN,2019-04-03,Ruhnn Holding Limited,12.5,3.4,-72.8
+TW,2019-04-04,Tradeweb Markets Inc.,27.0,112.39,316.25926
+SILK,2019-04-04,"Silk Road Medical, Inc",20.0,22.45,12.25
+RPLA,2019-04-04,Replay Acquisition,10.0,9.48,-5.199999999999994
+NGM,2019-04-04,"NGM Biopharmaceuticals, Inc.",16.0,1.54,-90.375
+GHSI,2019-04-05,"Guardion Health Sciences, Inc.",4.0,8.62,115.5
+PD,2019-04-11,"PagerDuty, Inc.",24.0,20.97,-12.625
+TUFN,2019-04-11,Tufin Software Technologies Ltd.,14.0,12.94,-7.571428571428573
+JMIA,2019-04-12,Jumia Technologies AG,14.5,6.66,-54.06897
+TPTX,2019-04-17,"Turning Point Therapeutics, Inc.",18.0,76.01,322.27777777777777
+BWAY,2019-04-17,BrainsWay Ltd.,11.0,5.4,-50.90909
+PLMR,2019-04-17,"Palomar Holdings, Inc.",15.0,85.3,468.66667
+GNLN,2019-04-18,"Greenlane Holdings, Inc.",17.0,0.6113,-96.62353
+HOOK,2019-04-18,HOOKIPA Pharma Inc.,14.0,0.811,-94.20714
+MNRL,2019-04-18,"Brigham Minerals, Inc.",18.0,32.5,80.55556
+ZM,2019-04-18,"Zoom Video Communications, Inc.",36.0,63.96,77.66667
+PINS,2019-04-18,"Pinterest, Inc.",19.0,42.77,125.10526
+WAFU,2019-04-30,Wah Fu Education Group Limited,5.0,1.93,-61.24
+SY,2019-05-02,So-Young International Inc.,13.8,1.24,-91.01449
+BYND,2019-05-02,"Beyond Meat, Inc.",25.0,7.2,-71.2
+TMDX,2019-05-02,"TransMedics Group, Inc.",16.0,134.93,743.3125
+SCPL,2019-05-03,SciPlay Corporation,16.0,22.94,43.375
+YJ,2019-05-03,Yunji Inc.,11.0,0.77,-93.0
+ATIF,2019-05-03,ATIF Holdings Limited,5.0,0.9421,-81.158
+RRBI,2019-05-03,"Red River Bancshares, Inc.",45.0,47.98,6.62222
+TBBA,2019-05-06,"TEB Bancorp, Inc",10.0,6.4,-36.0
+LCA,2019-05-07,"Landcadia Holdings II, Inc.",10.0,25.49,154.9
+TRVI,2019-05-07,"Trevi Therapeutics, Inc.",10.0,2.84,-71.6
+PSN,2019-05-08,Parsons Corporation,27.0,76.55,183.51852
+AXLA,2019-05-09,Axcella Health Inc.,20.0,0.4009,-97.9955
+QNCX,2019-05-09,"Quince Therapeutics, Inc.",17.0,0.9199,-94.58882
+NXTC,2019-05-09,"NextCure, Inc.",15.0,1.65,-89.0
+MEC,2019-05-09,"Mayville Engineering Company, Inc.",17.0,15.47,-9.0
+SPFI,2019-05-09,"South Plains Financial, Inc.",17.5,27.0,54.28571
+HHR,2019-05-09,HeadHunter Group PLC,13.5,,
+SONM,2019-05-10,"Sonim Technologies, Inc.",11.0,0.504,-95.41818
+JFIN,2019-05-10,Jiayin Group Inc.,10.5,6.7,-36.19048
+UBER,2019-05-10,"Uber Technologies, Inc.",45.0,66.05,46.77778
+AGBA,2019-05-14,AGBA Acquisition Limited,10.0,2.44,-75.6
+APLT,2019-05-14,"Applied Therapeutics, Inc.",10.0,4.25,-57.5
+PSTL,2019-05-15,"Postal Realty Trust, Inc.",17.0,13.79,-18.88235
+FSLY,2019-05-17,"Fastly, Inc.",16.0,8.89,-44.4375
+AVTR,2019-05-17,"Avantor, Inc.",14.0,24.98,78.42857
+LKNCY,2019-05-17,Luckin Coffee Inc.,17.0,21.69,27.58824
+GXGX,2019-05-21,GX Acquisition Corp.,10.0,10.2,2.0000000000000018
+BCYC,2019-05-23,Bicycle Therapeutics plc,14.0,22.18,58.42857
+IDYA,2019-05-23,"IDEAYA Biosciences, Inc.",10.0,41.53,315.3
+RTLR,2019-05-23,Rattler Midstream LP,17.5,15.22,-13.028571428571423
+GOTU,2019-06-06,Gaotu Techedu Inc.,10.5,7.99,-23.90476
+GIX,2019-06-06,"GigCapital2, Inc.",10.0,10.47,4.700000000000015
+HYAC,2019-06-07,Haymaker Acquisition Corp. II,10.0,9.52,-4.800000000000004
+RVLV,2019-06-07,"Revolve Group, Inc.",18.0,22.4,24.44444
+MWK,2019-06-12,"Mohawk Group Holdings, Inc.",10.0,23.7,137.0
+CRWD,2019-06-12,"CrowdStrike Holdings, Inc.",34.0,339.06,897.23529
+FVRR,2019-06-13,Fiverr International Ltd.,21.0,25.1,19.52381
+CHWY,2019-06-14,"Chewy, Inc.",22.0,16.97,-22.86364
+STOK,2019-06-19,"Stoke Therapeutics, Inc.",18.0,14.03,-22.05556
+GO,2019-06-20,Grocery Outlet Holding Corp.,22.0,21.82,-0.81818
+PSNL,2019-06-20,"Personalis, Inc.",17.0,1.395,-91.79412
+AKRO,2019-06-20,"Akero Therapeutics, Inc.",16.0,20.73,29.5625
+SMMC,2019-06-20,South Mountain Merger Corp.,10.0,16.8,68.00000000000001
+PRVL,2019-06-20,Prevail Therapeutics Inc.,17.0,23.0,35.29411764705883
+WORK,2019-06-20,"Slack Technologies, Inc.",26.0,45.2,73.84615384615385
+BCEL,2019-06-20,"Atreca, Inc.",17.0,0.0901,-99.47
+LINX,2019-06-26,Linx S.A.,9.4,7.5,-20.21276595744681
+CMBM,2019-06-26,Cambium Networks Corporation,12.0,3.6,-70.0
+CHNG,2019-06-27,"Change Healthcare, Inc.",13.0,27.49,111.46153846153845
+ADPT,2019-06-27,Adaptive Biotechnologies Corporation,20.0,3.72,-81.4
+MORF,2019-06-27,"Morphic Holding, Inc.",15.0,32.45,116.33333
+BBIO,2019-06-27,"BridgeBio Pharma, Inc.",17.0,31.04,82.58824
+REAL,2019-06-28,"The RealReal, Inc.",20.0,4.35,-78.25
+KRTX,2019-06-28,"Karuna Therapeutics, Inc.",16.0,329.83,1961.4375
+RMBI,2019-07-02,"Richmond Mutual Bancorporation, Inc.",10.0,11.5,15.0
+SCPE,2019-07-12,SC Health Corporation,10.0,15.84,58.400000000000006
+PIC,2019-07-12,Pivotal Investment Corporation II,10.0,19.54,95.39999999999999
+THCA,2019-07-12,Tuscan Holdings Corp. II,10.0,10.45,4.5
+DOYU,2019-07-17,DouYu International Holdings Limited,11.5,10.51,-8.6087
+IHRT,2019-07-18,"iHeartMedia, Inc.",17.0,1.29,-92.41176
+FULC,2019-07-18,"Fulcrum Therapeutics, Inc.",16.0,7.795,-51.28125
+MIRM,2019-07-18,"Mirum Pharmaceuticals, Inc.",15.0,24.75,65.0
+PHR,2019-07-18,"Phreesia, Inc.",17.0,24.05,41.47059
+AMK,2019-07-18,"AssetMark Financial Holdings, Inc.",22.0,34.01,54.59091
+OBDC,2019-07-18,Blue Owl Capital Corporation,15.3,16.38,7.05882
+CPAA,2019-07-18,Conyers Park II Acquisition Corp.,10.0,8.86,-11.40000000000001
+OAC,2019-07-18,Oaktree Acquisition Corp.,10.0,16.38,63.79999999999999
+MDLA,2019-07-19,"Medallia, Inc.",21.0,33.99,61.857142857142875
+AFYA,2019-07-19,Afya Limited,19.0,19.14,0.73684
+IFS,2019-07-19,Intercorp Financial Services Inc.,46.0,23.7,-48.47826
+EIC,2019-07-24,Eagle Point Income Company Inc.,19.0,16.26,-14.42105
+FLLC,2019-07-25,"Fellazo, Inc.",10.0,10.0,
+HCAT,2019-07-25,"Health Catalyst, Inc.",26.0,7.03,-72.96154
+NOVA,2019-07-25,Sunnova Energy International Inc.,12.0,4.59,-61.75
+CSTL,2019-07-25,"Castle Biosciences, Inc.",16.0,24.22,51.375
+PROS,2019-07-25,"ProSight Global, Inc.",14.0,12.85,-8.214285714285719
+LVGO,2019-07-25,Livongo Health,28.0,139.77,399.17857142857144
+SBE,2019-07-26,Switchback Energy Acquisition Corporation,10.0,30.83,208.29999999999998
+CCX,2019-07-26,Churchill Capital Corp II,10.0,10.75,7.499999999999996
+WSG,2019-07-26,Wanda Sports Group Co. Ltd.,8.0,2.495,-68.8125
+BHAT,2019-07-26,Blue Hat Interactive Entertainment Technology,4.0,1.08,-73.0
+VIST,2019-07-26,"Vista Energy, SAB de CV",9.0,47.47,427.44444
+BORR,2019-07-31,Borr Drilling Limited,9.3,5.88,-36.77419
+NFIN,2019-07-31,Netfin Acquisition,10.0,11.4,14.000000000000012
+DT,2019-08-01,"Dynatrace, Inc.",16.0,48.47,202.9375
+KRUS,2019-08-01,"Kura Sushi USA, Inc.",14.0,116.08,729.14286
+SNDL,2019-08-01,SNDL Inc.,13.0,2.65,-79.61538
+ORSN,2019-08-02,Orisun Acquisition,10.0,8.17,-18.300000000000004
+AMTD,2019-08-05,AMTD IDEA Group,8.38,1.87,-77.68496
+SSPK,2019-08-08,Silver Spike Acquisition Corp.,10.0,18.84,88.39999999999999
+INMD,2019-08-08,InMode Ltd.,14.0,18.64,33.14286
+THBR,2019-08-09,Thunder Bridge Acquisition II Ltd.,10.0,10.87,8.699999999999996
+BTOG,2019-08-14,Bit Origin Limited,5.0,3.89,-22.2
+JFU,2019-08-15,9F Inc.,9.5,3.12,-67.15789
+CFB,2019-08-15,"CrossFirst Bankshares, Inc.",14.5,13.36,-7.86207
+NPA,2019-09-09,New Providence Acquisition Corp.,10.0,11.6,15.999999999999993
+SONG,2019-09-11,Akazoo S.A.,,,
+SDCCQ,2019-09-12,"SmileDirectClub, Inc.",,0.0011,
+TXG,2019-09-12,"10x Genomics, Inc.",39.0,25.59,-34.38462
+NET,2019-09-13,"Cloudflare, Inc.",15.0,75.14,400.93333
+EXPC,2019-09-13,Experience Investment Corp.,10.0,8.7,-13.00000000000001
+ALRS,2019-09-13,Alerus Financial Corporation,21.0,19.74,-6.0
+SWTX,2019-09-13,"SpringWorks Therapeutics, Inc.",18.0,44.77,148.72222
+STSA,2019-09-13,"Satsuma Pharmaceuticals, Inc.",15.0,1.1,-92.66666666666666
+APXT,2019-09-17,Apex Technology Acquisition Corp.,10.0,12.11,21.099999999999987
+NVST,2019-09-18,Envista Holdings Corporation,22.0,19.13,-13.04545
+IGMS,2019-09-18,"IGM Biosciences, Inc.",16.0,9.29,-41.9375
+PING,2019-09-19,Ping Identity Holding Corp.,15.0,28.5,89.99999999999999
+XGN,2019-09-19,Exagen Inc.,14.0,1.89,-86.5
+DDOG,2019-09-19,"Datadog, Inc.",27.0,120.61,346.7037
+OPRT,2019-09-26,Oportun Financial Corporation,15.0,3.76,-74.93333
+PTON,2019-09-26,"Peloton Interactive, Inc.",29.0,3.89,-86.58621
+MCBS,2019-10-03,"MetroCity Bankshares, Inc.",13.5,25.78,90.96296
+APRE,2019-10-03,"Aprea Therapeutics, Inc.",15.0,5.59,-62.73333
+VIE,2019-10-03,Viela Bio,19.0,53.01,179.0
+KRRO,2019-10-03,"Korro Bio, Inc.",14.0,51.26,266.14286
+BNTX,2019-10-10,BioNTech SE,15.0,92.98,519.86667
+HBT,2019-10-11,"HBT Financial, Inc.",16.0,19.57,22.3125
+VIR,2019-10-11,"Vir Biotechnology, Inc.",20.0,9.93,-50.35
+IPHA,2019-10-17,Innate Pharma S.A.,5.5,2.574,-53.2
+BRBR,2019-10-17,"BellRing Brands, Inc.",14.0,58.23,315.92857
+GLEO,2019-10-18,Galileo Acquisition Corp.,10.0,8.54,-14.600000000000012
+LATN,2019-10-18,Union Acquisition Corp. II,10.0,9.86,-1.4000000000000012
+BRP,2019-10-24,The Baldwin Insurance Group Inc.,14.0,32.51,132.21429
+PHAT,2019-10-25,"Phathom Pharmaceuticals, Inc.",19.0,10.69,-43.73684
+PGNY,2019-10-25,"Progyny, Inc.",13.0,27.55,111.92308
+CABA,2019-10-25,"Cabaletta Bio, Inc.",11.0,12.62,14.72727
+AIH,2019-10-25,Aesthetic Medical International Holdings Group Limited,12.0,0.4978,-95.85167
+TFFP,2019-10-25,"TFF Pharmaceuticals, Inc.",5.0,2.16,-56.8
+DAO,2019-10-25,"Youdao, Inc.",17.0,3.94,-76.82353
+PAVS,2019-10-25,Paranovus Entertainment Technology Ltd.,5.5,0.92,-83.27273
+OYST,2019-10-31,"Oyster Point Pharma, Inc.",16.0,11.17,-30.1875
+RAPT,2019-10-31,"RAPT Therapeutics, Inc.",12.0,4.14,-65.5
+FSRV,2019-11-01,Finserv Acquisition Corp,10.0,14.52,45.199999999999996
+SFTW,2019-11-01,Osprey Technology Acquisition Corp.,10.0,11.41,14.100000000000001
+DUO,2019-11-01,Fangdd Network Group Ltd.,13.0,0.3988,-96.93231
+FLJ,2019-11-05,FLJ Group Limited,17.0,0.4799,-97.17706
+MCMJ,2019-11-05,Merida Merger Corp. I,10.0,6.53,-34.699999999999996
+CNTG,2019-11-07,Centogene N.V.,14.0,0.38,-97.28571
+GRTX,2019-11-07,"Galera Therapeutics, Inc.",12.0,0.1953,-98.3725
+SICP,2019-11-07,Silvergate Capital Corp,12.0,0.5,-95.83333
+DFNS,2019-11-07,LGL Systems Acquisition,10.0,13.84,38.39999999999999
+JIH,2019-11-08,"Juniper Industrial Holdings, Inc.",10.0,13.19,31.899999999999995
+SRAC,2019-11-08,Stable Road Acquisition Corp.,10.0,10.97,9.699999999999998
+MOHOY,2019-11-08,ECMOHO Limited,10.0,,
+CNSP,2019-11-08,"CNS Pharmaceuticals, Inc.",4.0,0.2249,-94.3775
+KRKR,2019-11-08,36Kr Holdings Inc.,14.5,0.3804,-97.37655
+TELA,2019-11-08,"TELA Bio, Inc.",13.0,6.36,-51.07692
+ETNB,2019-11-11,"89bio, Inc.",16.0,8.97,-43.9375
+YAYO,2019-11-13,"EVmo, Inc.",4.0,1e-06,-99.99997
+AMHC,2019-11-20,Amplitude Healthcare Acquisition Corp.,10.0,15.12,51.2
+SAQN,2019-11-20,Software Acquisition Group,10.0,10.1,1.0000000000000009
+CAN,2019-11-21,Canaan Inc.,9.0,1.17,-87.0
+SITM,2019-11-21,SiTime Corporation,13.0,128.07,885.15385
+GRNV,2019-11-21,Greenvision Acquisition Corp.,10.0,8.14,-18.599999999999994
+PTAC,2019-11-22,PropTech Acquisition Corp.,10.0,14.81,48.10000000000001
+CHPM,2019-11-22,CHP Merger Corp.,10.0,10.18,1.8000000000000016
+PINE,2019-11-22,"Alpine Income Property Trust, Inc.",19.0,15.86,-16.52632
+ALUS,2019-11-26,Alussa Energy Acquisition Corp.,10.0,9.5,-5.000000000000004
+LMPX,2019-12-05,"LMP Automotive Holdings, Inc.",5.0,0.35,-93.0
+LIVK,2019-12-11,LIV Capital Acquisition Corp.,10.0,10.3,3.0000000000000027
+XP,2019-12-11,XP Inc.,27.0,21.93,-18.77778
+BILL,2019-12-12,BILL Holdings Inc,22.0,59.52,170.54545
+EH,2019-12-12,EHang Holdings Limited,12.5,18.98,51.84
+HCCO,2019-12-13,Healthcare Merger Corp,10.0,8.97,-10.299999999999997
+CIIC,2019-12-13,CIIG Merger,10.0,21.6,116.00000000000001
+OCFT,2019-12-13,"OneConnect Financial Technology Co., Ltd.",10.0,2.17,-78.3
+SPT,2019-12-13,"Sprout Social, Inc.",17.0,29.78,75.17647
+MNPR,2019-12-19,Monopar Therapeutics Inc.,8.0,0.6175,-92.28125
+INDO,2019-12-19,Indonesia Energy Corporation Limited,11.0,3.96,-64.0
+MKDTY,2019-12-30,Molecular Data Inc.,5.38,0.0004,-99.99257
+DNK,2020-01-17,Phoenix Tree Holdings Ltd.,13.5,2.37,-82.44444444444444
+SOGP,2020-01-17,Sound Group Inc.,11.0,2.65,-76.27273
+IMAB,2020-01-17,I-Mab,14.0,1.77,-87.35714
+VEL,2020-01-17,"Velocity Financial, Inc.",13.0,17.78,36.76923
+GHIV,2020-01-24,"Gores Holdings IV, Inc.",10.0,11.54,15.399999999999991
+SCVX,2020-01-24,SCVX Corp.,10.0,10.01,0.09999999999998899
+ANVS,2020-01-29,"Annovis Bio, Inc.",6.0,8.03,33.83333
+FRES,2020-01-30,Fresh2 Group Ltd,12.0,0.4185,-96.5125
+BDTX,2020-01-30,"Black Diamond Therapeutics, Inc.",19.0,5.24,-72.42105
+ARQT,2020-01-31,"Arcutis Biotherapeutics, Inc.",17.0,9.12,-46.35294
+ONEM,2020-01-31,"1Life Healthcare, Inc.",14.0,16.47,17.64286
+REYN,2020-01-31,Reynolds Consumer Products Inc.,26.0,29.03,11.65385
+BEAM,2020-02-06,Beam Therapeutics Inc.,17.0,23.79,39.94118
+SDGR,2020-02-06,"Schrödinger, Inc.",17.0,22.9,34.70588
+CSPR,2020-02-06,"Casper Sleep, Inc.",12.0,6.78,-43.49999999999999
+PPD,2020-02-06,"PPD, Inc.",27.0,47.28,75.1111111111111
+NREF,2020-02-07,"NexPoint Real Estate Finance, Inc.",19.0,14.12,-25.68421
+ONEW,2020-02-07,OneWater Marine Inc.,12.0,25.88,115.66667
+PFHD,2020-02-07,Professional Holding Corp.,18.5,28.65,54.86486
+CCAC,2020-02-11,CITIC Capital Acquisition Corp.,10.0,7.05,-29.500000000000004
+GNRS,2020-02-11,The Greenrose Holding Company Inc.,10.0,0.0001,-99.999
+HUIZ,2020-02-12,Huize Holding Limited,10.5,0.8502,-91.90286
+ZGYH,2020-02-13,Yunhong International,10.0,10.28,2.8000000000000025
+MEDS,2020-02-13,"TRxADE HEALTH, Inc.",6.5,5.62,-13.53846
+SDOT,2020-02-13,Sadot Group Inc.,5.0,0.2853,-94.294
+RVMD,2020-02-13,"Revolution Medicines, Inc.",17.0,38.99,129.35294
+NBAC,2020-02-14,Newborn Acquisition,10.0,15.52,55.2
+CCXX,2020-02-14,Churchill Capital III,10.0,9.84,-1.6000000000000014
+ESSC,2020-02-20,East Stone Acquisition Corp.,10.0,7.3,-27.0
+DMYT,2020-02-21,dMY Technology Group,10.0,22.76,127.60000000000002
+ZCMD,2020-02-24,Zhongchao Inc.,4.0,1.45,-63.75
+PASG,2020-02-28,"Passage Bio, Inc.",18.0,1.34,-92.55556
+GFL,2020-03-03,GFL Environmental Inc.,19.0,31.91,67.94737
+LSAC,2020-03-06,LifeSci Acquisition Corp.,10.0,19.0,89.99999999999999
+FEAC,2020-03-06,Flying Eagle Acquisition,10.0,17.68,76.8
+DFPH,2020-03-11,DFP Healthcare Acquisitions Corp.,10.0,10.98,9.800000000000008
+ELVN,2020-03-12,"Enliven Therapeutics, Inc.",16.0,23.81,48.8125
+WIMI,2020-04-01,WiMi Hologram Cloud Inc.,5.5,0.96,-82.54545
+ZNTL,2020-04-03,"Zentalis Pharmaceuticals, Inc.",18.0,11.96,-33.55556
+KROS,2020-04-08,"Keros Therapeutics, Inc.",16.0,53.99,237.4375
+IPOC,2020-04-22,Social Capital Hedosophia Holdings Corp. III,10.0,16.02,60.19999999999999
+PCPL,2020-04-24,CC Neuberger Principal Holdings I,10.0,10.98,9.800000000000008
+CHAQ,2020-04-24,Chardan Healthcare Acquisition 2 Corp.,10.0,8.41,-15.900000000000002
+ORIC,2020-04-24,"ORIC Pharmaceuticals, Inc.",16.0,9.02,-43.625
+IPOB,2020-04-28,Social Capital Hedosophia II,10.0,29.5,195.00000000000003
+FVAC,2020-04-30,Fortress Value Acquisition,10.0,14.39,43.900000000000006
+CGRO,2020-05-01,Collective Growth Corp.,10.0,9.75,-2.500000000000002
+LYRA,2020-05-01,"Lyra Therapeutics, Inc.",16.0,0.3676,-97.7025
+ROCH,2020-05-05,Roth CH Acquisition I,10.0,28.9,188.99999999999997
+GAN,2020-05-05,GAN Limited,8.5,1.32,-84.47059
+LOAK,2020-05-06,Live Oak Acquisition Corp.,10.0,24.2,142.0
+SOAC,2020-05-06,Sustainable Opportunities Acquisition Corp.,10.0,10.62,6.199999999999983
+CLEU,2020-05-08,China Liberal Education Holdings Limited,6.0,1.09,-81.83333
+AYLA,2020-05-08,"Ayala Pharmaceuticals, Inc.",15.0,0.5036,-96.64267
+KC,2020-05-08,Kingsoft Cloud Holdings Limited,17.0,3.56,-79.05882
+JWS,2020-05-14,Jaws Acquisition Corporation,10.0,14.75,47.50000000000001
+GIK,2020-05-14,"GigCapital3, Inc.",10.0,7.82,-21.799999999999997
+NOVS,2020-05-15,Novus Capital Corp.,10.0,24.95,149.5
+ADCT,2020-05-15,ADC Therapeutics SA,19.0,4.09,-78.47368
+BMRG,2020-05-20,B. Riley Principal Merger II,10.0,10.68,6.800000000000006
+SLQT,2020-05-21,"SelectQuote, Inc.",20.0,3.05,-84.75
+LGVW,2020-05-21,Longview Acquisition Corp.,10.0,23.05,130.50000000000003
+NARI,2020-05-22,"Inari Medical, Inc.",19.0,46.3,143.68421
+WPF,2020-05-27,Foley Trasimene Acquisition Corp.,10.0,9.75,-2.500000000000002
+PLRX,2020-06-03,"Pliant Therapeutics, Inc.",16.0,15.61,-2.4375
+WMG,2020-06-03,Warner Music Group Corp.,25.0,31.89,27.56
+ZI,2020-06-04,ZoomInfo Technologies Inc.,21.0,13.61,-35.19048
+LEGN,2020-06-05,Legend Biotech Corporation,23.0,46.37,101.6087
+FOUR,2020-06-05,"Shift4 Payments, Inc.",23.0,68.83,199.26087
+CALT,2020-06-05,Calliditas Therapeutics AB (publ),19.5,22.0299,12.97436
+DADA,2020-06-05,Dada Nexus Limited,16.0,1.82,-88.625
+AMTI,2020-06-05,Applied Molecular Transport Inc.,14.0,0.263,-98.12143
+MCAC,2020-06-05,Mountain Crest Acquisition Corp.,10.0,13.34,33.400000000000006
+ARYB,2020-06-05,ARYA Sciences Acquisition II,10.0,10.1,1.0000000000000009
+VRM,2020-06-09,"Vroom, Inc.",22.0,11.67,-46.95455
+UCL,2020-06-10,uCloudlink Group Inc.,18.0,1.46,-91.88889
+LTRN,2020-06-11,Lantern Pharma Inc.,15.0,6.14,-59.06667
+PCVX,2020-06-12,"Vaxcyte, Inc.",16.0,75.45,371.5625
+AZEK,2020-06-12,The AZEK Company Inc.,23.0,46.82,103.56522
+BNR,2020-06-12,Burning Rock Biotech Limited,16.5,8.03,-51.33333
+GBIO,2020-06-12,Generation Bio Co.,19.0,3.77,-80.15789
+RNA,2020-06-12,"Avidity Biosciences, Inc.",18.0,28.72,59.55556
+RPRX,2020-06-16,Royalty Pharma plc,28.0,27.88,-0.42857
+TREB,2020-06-17,Trebia Acquisition Corp.,10.0,9.22,-7.799999999999995
+FMTX,2020-06-19,"Forma Therapeutics Holdings, Inc.",20.0,20.01,0.0500000000000167
+NUZE,2020-06-19,"NuZee, Inc.",9.0,2.23,-75.22222
+BIOR,2020-06-19,"Biora Therapeutics, Inc.",15.0,0.7373,-95.08467
+GTH,2020-06-19,Genetron Holdings Limited,16.0,4.025,-74.84375
+RPTX,2020-06-19,Repare Therapeutics Inc.,20.0,3.53,-82.35
+BRLI,2020-06-24,Brilliant Acquisition Corporation,10.0,4.7,-53.0
+FUSN,2020-06-26,Fusion Pharmaceuticals Inc.,17.0,21.46,26.23529
+ACI,2020-06-26,"Albertsons Companies, Inc.",16.0,20.9,30.625
+API,2020-06-26,"Agora, Inc.",20.0,2.95,-85.25
+EBON,2020-06-26,Ebang International Holdings Inc.,5.23,8.77,65.77438
+AKUS,2020-06-26,"Akouos, Inc.",17.0,13.29,-21.82352941176471
+FUSE,2020-06-26,Fusion Acquisition Corp.,10.0,10.0,
+KCAC,2020-06-26,Kensington Capital Acquisition Corp.,10.0,23.5,135.0
+PYPD,2020-06-26,PolyPid Ltd.,16.0,4.44,-72.25
+GSAH,2020-06-30,GS Acquisition Holdings Corp. II,10.0,10.26,2.6000000000000023
+ADTX,2020-06-30,"Aditxt, Inc.",9.0,2.01,-77.66667
+PANA,2020-07-01,Panacea Acquisition Corp.,10.0,10.42,4.200000000000004
+DNB,2020-07-01,"Dun & Bradstreet Holdings, Inc.",22.0,10.69,-51.40909
+CPSR,2020-07-02,Capstar Special Purpose Acquisition Corp.,10.0,7.36,-26.400000000000002
+ACCD,2020-07-02,"Accolade, Inc.",22.0,7.33,-66.68182
+LMND,2020-07-02,"Lemonade, Inc.",29.0,17.7,-38.96552
+RACA,2020-07-08,Therapeutics Acquisition Corp.,10.0,10.2743,2.7430000000000065
+TXAC,2020-07-08,Therapeutics Acquisition Corp.,10.0,12.96,29.600000000000005
+BLCT,2020-07-08,BlueCity Holdings Ltd.,16.0,1.54,-90.375
+PSTX,2020-07-10,"Poseida Therapeutics, Inc.",16.0,3.345,-79.09375
+NKTX,2020-07-10,"Nkarta, Inc.",18.0,6.82,-62.11111
+QH,2020-07-10,Quhuo Limited,10.0,0.5602,-94.398
+IVA,2020-07-10,Inventiva S.A.,14.4,3.6523,-74.63889
+PTK,2020-07-13,PTK Acquisition Corp.,10.0,7.28,-27.200000000000003
+AACQ,2020-07-14,"Artius Acquisition, Inc",10.0,9.99,-0.10000000000000009
+NCNO,2020-07-14,"nCino, Inc.",31.0,31.87,2.80645
+DEH,2020-07-15,D8 Holdings Corp.,10.0,11.57,15.700000000000003
+MLAC,2020-07-15,Malacca Straits Acquisition Company Limited,10.0,10.53,5.3
+GOCO,2020-07-15,"GoHealth, Inc.",21.0,8.915,-57.54762
+HPX,2020-07-15,HPX Corp.,10.0,16.69,66.9
+TIG,2020-07-16,"Trean Insurance Group, Inc.",15.0,,
+RLAY,2020-07-16,"Relay Therapeutics, Inc.",20.0,6.51,-67.45
+CELL,2020-07-17,PhenomeX Inc.,22.0,0.9981,-95.46363636363637
+RNLX,2020-07-17,Renalytix Plc,13.5,0.5889,-95.63778
+ALXO,2020-07-17,ALX Oncology Holdings Inc.,19.0,14.66,-22.84211
+DFHT,2020-07-17,Deerfield Healthcare Technology Acquisitions Corp.,10.0,14.92,49.2
+PAND,2020-07-17,"Pandion Therapeutics, Inc.",18.0,60.05,233.6111111111111
+PSTH,2020-07-22,"Pershing Square Tontine Holdings, Ltd.",20.0,20.14,0.7000000000000117
+JAMF,2020-07-22,Jamf Holding Corp.,26.0,17.85,-31.34615
+PSAC,2020-07-22,Property Solutions Acquisition Corp.,10.0,13.78,37.79999999999999
+EDTK,2020-07-23,Skillful Craftsman Education Technology Limited,5.0,0.919,-81.62
+ERES,2020-07-23,East Resources Acquisition Company,10.0,10.85,8.5
+MEG,2020-07-23,"Montrose Environmental Group, Inc.",15.0,47.54,216.93333
+NRIX,2020-07-24,"Nurix Therapeutics, Inc.",19.0,15.4,-18.94737
+ANNX,2020-07-24,"Annexon, Inc.",17.0,4.36,-74.35294
+ITOS,2020-07-24,"iTeos Therapeutics, Inc.",19.0,17.9,-5.78947
+GRCY,2020-07-24,Greencity Acquisition Corporation,10.0,,
+ACND,2020-07-24,Ascendant Digital Acquisition Corp.,10.0,9.52,-4.800000000000004
+INZY,2020-07-24,"Inozyme Pharma, Inc.",16.0,4.73,-70.4375
+ACEV,2020-07-28,ACE Convergence Acquisition Corp.,10.0,10.48,4.800000000000004
+VERX,2020-07-29,"Vertex, Inc.",19.0,32.3,70.0
+CCIV,2020-07-30,Churchill Capital Corp. IV,10.0,24.25,142.49999999999997
+ALVR,2020-07-30,"AlloVir, Inc.",17.0,0.7514,-95.58
+LI,2020-07-30,Li Auto Inc.,11.5,25.19,119.04348
+ETAC,2020-07-31,E.merge Technology Acquisition Corp.,10.0,10.06,0.6000000000000005
+VITL,2020-07-31,"Vital Farms, Inc.",22.0,37.82,71.90909
+VSTA,2020-07-31,Vasta Platform Limited,19.0,3.65,-80.78947
+POLCQ,2020-07-31,Polished.com Inc,,0.0003,
+NHIC,2020-07-31,NewHold Investment Corp.,10.0,9.55,-4.499999999999993
+PRPB,2020-07-31,CC Neuberger Principal Holdings II,10.0,9.35,-6.500000000000005
+FTHM,2020-07-31,Fathom Holdings Inc.,10.0,1.62,-83.8
+YAC,2020-08-04,Yucaipa Acquisition Corp.,10.0,9.93,-0.7000000000000006
+HSAQ,2020-08-04,Health Sciences Acquisitions Corporation 2,10.0,13.31,33.1
+BIGC,2020-08-05,"BigCommerce Holdings, Inc.",24.0,7.91,-67.04167
+BOWX,2020-08-05,BowX Acquisition Corp.,10.0,10.38,3.8000000000000034
+HOL,2020-08-05,"Holicity, Inc.",10.0,12.35,23.499999999999986
+RXT,2020-08-05,"Rackspace Technology, Inc.",21.0,2.15,-89.7619
+GOAC,2020-08-05,GO Acquisition Corp.,10.0,,
+GRSV,2020-08-06,"Gores Holdings V, Inc.",10.0,10.59,5.899999999999994
+KSMT,2020-08-06,Kismet Acquisition One Corp.,10.0,10.49,4.899999999999993
+AFIB,2020-08-06,"Acutus Medical, Inc.",18.0,0.045,-99.75
+OSH,2020-08-06,"Oak Street Health, Inc.",21.0,39.0,85.71429
+RKT,2020-08-06,"Rocket Companies, Inc.",18.0,13.88,-22.88889
+FRLN,2020-08-07,Freeline Therapeutics Holdings plc,18.0,6.48,-63.99999999999999
+CMPI,2020-08-07,"Checkmate Pharmaceuticals, Inc.",15.0,,
+ARYA,2020-08-07,ARYA Sciences Acquisition Corp. III,10.0,11.16,11.60000000000001
+IBEX,2020-08-07,IBEX Limited,19.0,15.16,-20.21053
+VMAC,2020-08-07,"Vistas Media Acquisition Company, Inc.",10.0,9.83,-1.7000000000000015
+FAII,2020-08-12,Fortress Value Acquisition Corp. II,10.0,10.28,2.8000000000000025
+KBNT,2020-08-12,"Kubient, Inc.",5.0,0.0003,-99.994
+FSDC,2020-08-12,FS Development Corp.,10.0,12.66,26.6
+RBAC,2020-08-13,RedBall Acquisition Corp.,10.0,,
+NTST,2020-08-13,NETSTREIT Corp.,18.0,17.86,-0.77778
+BEKE,2020-08-13,KE Holdings Inc.,20.0,19.14,-4.3
+DMYD,2020-08-14,"dMY Technology Group, Inc. II",10.0,16.21,62.1
+DGNR,2020-08-14,Dragoneer Growth Opportunities Corp.,10.0,9.26,-7.400000000000007
+LCAP,2020-08-14,Lionheart Acquisition Corp. II,10.0,10.78,7.799999999999985
+CVAC,2020-08-14,CureVac N.V.,16.0,3.48,-78.25
+DCT,2020-08-14,"Duck Creek Technologies, Inc.",27.0,18.99,-29.66667
+NGA,2020-08-18,Northern Genesis Acquisition Corp.,10.0,16.17,61.700000000000024
+STPK,2020-08-18,Star Peak Energy Transition Corp.,10.0,26.61,166.1
+FIII,2020-08-18,Forum Merger III Corporation,10.0,10.19,1.8999999999999906
+AONE,2020-08-18,One,10.0,8.56,-14.399999999999991
+INBX,2020-08-19,"Inhibrx, Inc.",17.0,34.49,102.88235
+BFT,2020-08-19,Foley Trasimene Acquisition II,10.0,15.1,51.0
+HRMY,2020-08-19,"Harmony Biosciences Holdings, Inc.",24.0,29.31,22.125
+HZAC,2020-08-21,Horizon Acquisition Corp.,10.0,12.29,22.899999999999988
+CLA,2020-08-21,Colonnade Acquisition,10.0,12.0,19.999999999999996
+FST,2020-08-21,FAST Acquisition Corp.,10.0,10.18,1.8000000000000016
+NNOX,2020-08-21,Nano-X Imaging Ltd.,18.0,9.83,-45.38889
+KYMR,2020-08-21,"Kymera Therapeutics, Inc.",20.0,35.6,78.0
+FTOC,2020-08-26,FTAC Olympus Acquisition Corp.,10.0,10.76,7.600000000000007
+CFII,2020-08-27,CF Finance Acquisition Corp. II,10.0,9.19,-8.100000000000007
+BTAQ,2020-08-27,Burgundy Technology Acquisition Corporation,10.0,10.04,0.40000000000000036
+XPEV,2020-08-27,XPeng Inc.,15.0,8.27,-44.86667
+GP,2020-08-28,GreenPower Motor Company Inc.,20.0,1.37,-93.15
+HCDIQ,2020-08-28,Harbor Custom Development Inc,6.0,0.0204,-99.66
+AUVI,2020-08-31,"Applied UV, Inc.",5.0,0.5899,-88.202
+PRFX,2020-09-01,PainReform Ltd.,8.0,0.8001,-89.99875
+CMLF,2020-09-02,"CM Life Sciences, Inc.",10.0,11.6,15.999999999999993
+BCTG,2020-09-03,BCTG Acquisition Corp.,10.0,10.2,2.0000000000000018
+INAQ,2020-09-03,INSU Acquisition Corp. II,10.0,18.0,80.0
+CAPA,2020-09-04,HighCape Capital Acquisition Corp.,10.0,10.68,6.800000000000006
+TWND,2020-09-04,Tailwind Acquisition Corp.,10.0,9.72,-2.5
+HEC,2020-09-06,Hudson Executive Investment Corp.,10.0,8.52,-14.800000000000002
+CRHC,2020-09-09,Cohn Robbins Holdings Corp.,10.0,10.0,
+ITAC,2020-09-09,"Industrial Tech Acquisitions, Inc.",10.0,8.2,-18.000000000000004
+SVAC,2020-09-10,Starboard Value Acquisition Corp.,10.0,9.55,-4.499999999999993
+PIAI,2020-09-10,Prime Impact Acquisition I,10.0,10.82,8.200000000000006
+NSH,2020-09-10,"NavSight Holdings, Inc.",10.0,9.41,-5.899999999999994
+LEAP,2020-09-11,"Ribbit LEAP, Ltd.",10.0,10.02,0.20000000000000018
+SNPR,2020-09-11,Tortoise Acquisition Corp. II,10.0,9.3,-6.999999999999995
+LSPD,2020-09-11,Lightspeed Commerce Inc.,30.5,15.1,-50.4918
+TWCT,2020-09-11,TWC Tech Holdings II Corp.,10.0,10.06,0.6000000000000005
+BSN,2020-09-11,Broadstone Acquisition Corp.,10.0,10.68,6.800000000000006
+OM,2020-09-15,"Outset Medical, Inc.",27.0,3.52,-86.96296
+SAII,2020-09-15,"Software Acquisition Group, Inc. II",10.0,8.98,-10.199999999999998
+SBG,2020-09-15,Sandbridge Acquisition Corporation,10.0,8.84,-11.6
+ENPC,2020-09-16,Executive Network Partnering Corporation,25.0,9.25,-63.0
+MTCR,2020-09-16,"Metacrine, Inc.",13.0,0.581,-95.53076923076922
+EQD,2020-09-16,Equity Distribution Acquisition Corp.,10.0,10.02,0.20000000000000018
+STEP,2020-09-16,StepStone Group Inc.,18.0,37.44,108.0
+FROG,2020-09-16,JFrog Ltd.,44.0,32.89,-25.25
+SNOW,2020-09-16,Snowflake Inc.,120.0,165.04,37.53333
+BNL,2020-09-17,"Broadstone Net Lease, Inc.",17.0,15.65,-7.94118
+PTVE,2020-09-17,Pactiv Evergreen Inc.,14.0,13.45,-3.92857
+DYN,2020-09-17,"Dyne Therapeutics, Inc.",19.0,28.75,51.31579
+RTP,2020-09-17,Reinvent Technology Partners,10.0,10.03,0.29999999999998916
+OACB,2020-09-17,Oaktree Acquisition Corp. II,10.0,9.38,-6.199999999999994
+STWO,2020-09-17,ACON S2 Acquisition Corp.,10.0,8.21,-17.899999999999995
+AMWL,2020-09-17,American Well Corporation,18.0,0.4862,-97.29889
+SUMO,2020-09-17,"Sumo Logic, Inc.",22.0,12.04,-45.27273
+AHAC,2020-09-18,Alpha Healthcare Acquisition Corp.,10.0,10.96,9.600000000000009
+ATHA,2020-09-18,"Athira Pharma, Inc.",17.0,2.71,-84.05882
+NMMC,2020-09-18,North Mountain Merger Corp.,10.0,10.02,0.20000000000000018
+VTRU,2020-09-18,Vitru Limited,16.0,9.5,-40.625
+CMPS,2020-09-18,COMPASS Pathways plc,17.0,7.99,-53.0
+U,2020-09-18,Unity Software Inc.,52.0,22.09,-57.51923
+FCAC,2020-09-22,Falcon Capital Acquisition Corp.,10.0,9.0,-9.999999999999998
+PMVC,2020-09-22,PMV Consumer Acquisition Corp.,10.0,10.02,0.2
+VIH,2020-09-23,VPC Impact Acquisition Holdings,10.0,9.36,-6.400000000000006
+LSF,2020-09-23,"Laird Superfood, Inc.",22.0,2.61,-88.13636
+ACTC,2020-09-23,ArcLight Clean Transition Corp.,10.0,18.09,80.89999999999999
+BSY,2020-09-23,"Bentley Systems, Incorporated",22.0,56.08,154.90909
+ASPL,2020-09-23,Aspirational Consumer Lifestyle Corp.,10.0,9.93,-0.7000000000000006
+GDRX,2020-09-23,"GoodRx Holdings, Inc.",33.0,8.06,-75.57576
+CRSR,2020-09-23,"Corsair Gaming, Inc.",17.0,11.19,-34.17647
+PDAC,2020-09-24,Peridot Acquisition Corp.,10.0,11.23,12.3
+TSHA,2020-09-24,"Taysha Gene Therapies, Inc.",20.0,3.14,-84.3
+PRLD,2020-09-25,Prelude Therapeutics Incorporated,19.0,4.28,-77.47368
+GRAY,2020-09-25,"Graybug Vision, Inc.",16.0,5.5,-65.625
+PMVP,2020-09-25,"PMV Pharmaceuticals, Inc.",18.0,2.15,-88.05556
+GLSI,2020-09-25,"Greenwich LifeSciences, Inc.",5.75,14.45,151.30435
+AMST,2020-09-25,Amesite Inc.,5.0,3.46,-30.8
+SYTA,2020-09-25,Siyata Mobile Inc.,7.25,2.54,-64.96552
+FTIV,2020-09-25,FinTech Acquisition Corp. IV,10.0,13.28,32.79999999999998
+VACQ,2020-09-25,Vector Acquisition Corporation,10.0,11.57,15.700000000000003
+VIAOY,2020-09-25,VIA optronics AG,15.0,0.1,-99.33333
+ORPHY,2020-09-29,Orphazyme A/S,11.0,,
+VSPR,2020-09-30,Vesper Healthcare Acquisition Corp.,10.0,12.49,24.900000000000013
+QELL,2020-09-30,Qell Acquisition Corp.,10.0,9.41,-5.899999999999994
+FGNA,2020-09-30,FG New America Acquisition Corp.,10.0,9.97,-0.29999999999998916
+CLII,2020-09-30,Climate Change Crisis Real Impact I Acquisition Corporation,10.0,14.36,43.599999999999994
+BQ,2020-09-30,Boqii Holding Limited,10.0,0.3633,-96.367
+YALA,2020-09-30,Yalla Group Limited,7.5,4.91,-34.53333
+CD,2020-09-30,Chindata Group Holdings Limited,13.5,8.45,-37.40740740740741
+ASAN,2020-09-30,"Asana, Inc.",21.0,15.7,-25.2381
+PLTR,2020-09-30,Palantir Technologies Inc.,7.25,21.65,198.62069
+LUNG,2020-10-01,Pulmonx Corporation,19.0,9.05,-52.36842
+IMPX,2020-10-01,AEA-Bridges Impact Corp.,10.0,9.39,-6.099999999999994
+AGC,2020-10-01,Altimeter Growth Corp.,10.0,11.01,10.099999999999998
+LXEH,2020-10-01,"Lixiang Education Holding Co., Ltd.",9.25,0.4201,-95.45838
+IGAC,2020-10-01,IG Acquisition Corp.,10.0,10.12,1.2
+RCHG,2020-10-01,Recharge Acquisition Corp.,10.0,10.12,1.200000000000001
+THRY,2020-10-01,"Thryv Holdings, Inc.",10.17,21.99,116.22419
+AVO,2020-10-01,"Mission Produce, Inc.",12.0,12.67,5.58333
+ASO,2020-10-02,"Academy Sports and Outdoors, Inc.",13.0,54.39,318.38462
+IMNM,2020-10-02,"Immunome, Inc.",12.0,14.4,20.0
+AVAN,2020-10-02,Avanti Acquisition Corp.,10.0,10.04,0.4
+VYGG,2020-10-02,Vy Global Growth,10.0,10.05,0.5000000000000115
+CCCC,2020-10-02,"C4 Therapeutics, Inc.",19.0,5.97,-68.57895
+APSG,2020-10-02,Apollo Strategic Growth Capital,10.0,7.39,-26.1
+IACA,2020-10-02,ION Acquisition Corp 1 Ltd.,10.0,10.54,5.399999999999983
+VGAC,2020-10-02,VG Acquisition Corp.,10.0,10.99,9.899999999999999
+SEAH,2020-10-02,Sports Entertainment Acquisition Corp.,10.0,8.01,-19.900000000000006
+ASAQ,2020-10-02,Atlantic Street Acquisition Corp.,10.0,10.03,0.29999999999998916
+ONCR,2020-10-02,"Oncorus, Inc.",15.0,0.126,-99.16
+FMAC,2020-10-06,FirstMark Horizon Acquisition Corp.,10.0,9.63,-3.699999999999992
+NGAC,2020-10-07,NextGen Acquisition Corporation,10.0,8.83,-11.7
+SQFT,2020-10-07,"Presidio Property Trust, Inc.",5.0,0.8995,-82.01
+PACE,2020-10-07,TPG Pace Tech Opportunities Corp.,10.0,11.2,11.99999999999999
+EMPW,2020-10-07,Empower Ltd.,10.0,9.8,-1.9999999999999907
+MAAC,2020-10-07,Montes Archimedes Acquisition Corp.,10.0,9.35,-6.500000000000005
+TPGY,2020-10-07,TPG Pace Beneficial Finance Corp.,10.0,10.04,0.40000000000000036
+PAIC,2020-10-08,"Petra Acquisition, Inc.",10.0,8.32,-16.799999999999994
+ELUT,2020-10-08,Elutia Inc.,17.0,3.22,-81.05882
+FUBO,2020-10-08,fuboTV Inc.,10.0,1.33,-86.7
+LCY,2020-10-09,"Landcadia Holdings III, Inc.",10.0,12.17,21.70000000000001
+IPOD,2020-10-09,Social Capital Hedosophia Holdings Corp. IV,10.0,10.03,0.29999999999998916
+IPOE,2020-10-09,Social Capital Hedosophia Holdings Corp. V,10.0,20.15,101.49999999999997
+IPOF,2020-10-09,Social Capital Hedosophia Holdings Corp. VI,10.0,10.03,0.29999999999998916
+INTZ,2020-10-09,Intrusion Inc.,8.0,1.76,-78.0
+SPRB,2020-10-09,"Spruce Biosciences, Inc.",15.0,0.7699,-94.86733
+KRON,2020-10-09,"Kronos Bio, Inc.",19.0,0.9818,-94.83263
+IH,2020-10-09,iHuman Inc.,12.0,1.9,-84.16667
+STTK,2020-10-09,"Shattuck Labs, Inc.",17.0,7.84,-53.88235
+FVAM,2020-10-14,5:01 Acquisition Corp.,10.0,10.0,
+CDAKQ,2020-10-14,"Codiak BioSciences, Inc.",15.0,,
+MNSO,2020-10-15,MINISO Group Holding Limited,20.0,24.62,23.1
+ARRY,2020-10-15,"Array Technologies, Inc.",22.0,11.34,-48.45455
+EBC,2020-10-15,"Eastern Bankshares, Inc.",10.0,14.25,42.5
+MOTN,2020-10-15,Motion Acquisition Corp.,10.0,10.25,2.499999999999991
+TMTS,2020-10-15,Spartacus Acquisition Corporation,10.0,10.86,8.599999999999985
+PRAX,2020-10-16,"Praxis Precision Medicines, Inc.",19.0,45.21,137.94737
+TMPM,2020-10-16,Turmeric Acquisition Corp.,10.0,10.03,0.29999999999998916
+KRBP,2020-10-16,"Kiromic BioPharma, Inc.",12.0,3.08,-74.33333
+ALGS,2020-10-16,"Aligos Therapeutics, Inc.",15.0,0.655,-95.63333
+EAR,2020-10-16,"Eargo, Inc.",18.0,2.57,-85.72222222222223
+BTWN,2020-10-16,Bridgetown Holdings Limited,10.0,,
+OPT,2020-10-16,Opthea Limited,13.5,3.58,-73.48148
+TARS,2020-10-16,"Tarsus Pharmaceuticals, Inc.",16.0,38.58,141.125
+HZON,2020-10-20,Horizon Acquisition Corporation II,10.0,11.325,13.25
+GWAC,2020-10-20,Good Works Acquisition Corp.,10.0,10.5,5.000000000000004
+DCRB,2020-10-20,Decarbonization Plus Acquisition Corporation,10.0,10.33,3.299999999999992
+HLXA,2020-10-20,Helix Acquisition Corp.,10.0,13.25,32.49999999999999
+LFTR,2020-10-21,Lefteris Acquisition Corp.,10.0,10.05,0.5000000000000115
+YGMZ,2020-10-21,MingZhu Logistics Holdings Limited,4.0,0.3459,-91.3525
+SPNV,2020-10-21,"Supernova Partners Acquisition Company, Inc.",10.0,8.8,-11.99999999999999
+SRSA,2020-10-21,Sarissa Capital Acquisition Corp.,10.0,10.05,0.5000000000000115
+XPOA,2020-10-21,"DPCM Capital, Inc.",10.0,8.66,-13.4
+MSP,2020-10-21,Datto Holding Corp.,27.0,35.18,30.296296296296287
+HIGA,2020-10-21,H.I.G. Acquisition Corp.,10.0,10.04,0.40000000000000036
+ABCM,2020-10-22,Abcam plc,17.5,23.99,37.08571
+GHLD,2020-10-22,Guild Holdings Company,15.0,13.6891,-8.73933
+MCFE,2020-10-22,McAfee Corp.,20.0,25.99,29.94999999999999
+YSAC,2020-10-22,Yellowstone Acquisition Company,10.0,8.67,-13.3
+CTAC,2020-10-22,Cerberus Telecom Acquisition Corp.,10.0,7.81,-21.90000000000001
+TEKK,2020-10-22,Tekkorp Digital Acquisition Corp.,10.0,10.04,0.40000000000000036
+BLSA,2020-10-22,BCLS Acquisition Corp.,10.0,10.04,0.40000000000000036
+RICE,2020-10-22,Rice Acquisition Corp.,10.0,18.27,82.69999999999999
+ATAC,2020-10-23,Altimar Acquisition Corp.,10.0,10.01,0.09999999999998899
+ACAC,2020-10-23,Acies Acquisition Corp.,10.0,8.39,-16.09999999999999
+EUCR,2020-10-23,Eucrates Biomedical Acquisition Corp.,10.0,10.04,0.4
+FHTX,2020-10-23,Foghorn Therapeutics Inc.,16.0,5.81,-63.6875
+MACU,2020-10-27,Mallard Acquisition Corp.,10.0,10.09,0.8999999999999897
+LUXA,2020-10-27,Lux Health Tech Acquisition Corp.,10.0,10.04,0.40000000000000036
+ABST,2020-10-28,Absolute Software Corporation,11.0,11.49,4.454545454545467
+GATO,2020-10-28,"Gatos Silver, Inc.",7.0,11.1,58.57143
+BOAC,2020-10-28,Bluescape Opportunities Acquisition Corp.,10.0,10.03,0.3
+MAX,2020-10-28,"MediaAlpha, Inc.",19.0,18.83,-0.89474
+AJAX,2020-10-28,Ajax I,10.0,8.72,-12.79999999999999
+ACIC,2020-10-28,Atlas Crest Investment Corp.,10.0,9.48,-5.199999999999994
+BDSX,2020-10-28,"Biodesix, Inc.",18.0,1.56,-91.33333
+ROOT,2020-10-28,"Root, Inc.",27.0,61.81,128.92593
+LESL,2020-10-29,"Leslie's, Inc.",17.0,5.26,-69.05882
+GLTO,2020-10-29,"Galecto, Inc.",15.0,0.63,-95.8
+ALGM,2020-10-29,"Allegro MicroSystems, Inc.",14.0,29.75,112.5
+DSAC,2020-10-29,Duddell Street Acquisition Corp.,10.0,8.36,-16.400000000000002
+NBA,2020-10-30,New Beginnings Acquisition Corp.,10.0,9.75,-2.500000000000002
+BHSE,2020-10-30,Bull Horn Holdings Corp.,10.0,11.95,19.499999999999986
+SQZB,2020-10-30,SQZ Biotechnologies Company,16.0,0.021,-99.86875
+SHOT,2020-10-30,Safety Shot Inc,7.5,1.44,-80.8
+CNXX,2020-10-30,CONX Corp,10.0,5.01,
+AVIR,2020-10-30,"Atea Pharmaceuticals, Inc.",24.0,3.7,-84.58333
+LU,2020-10-30,Lufax Holding Ltd,13.5,4.55,-66.2963
+DBDR,2020-11-06,Roman DBDR Tech Acquisition Corp.,10.0,9.95,-0.5000000000000115
+TSIA,2020-11-10,TS Innovation Acquisitions Corp.,10.0,10.83,8.299999999999997
+ADOC,2020-11-10,Edoc Acquisition Corp.,10.0,2.85,-71.5
+NOAC,2020-11-11,Natural Order Acquisition Corp.,10.0,10.06,0.6000000000000005
+STIC,2020-11-11,Northern Star Acquisition Corp.,10.0,12.19,21.899999999999984
+DMYI,2020-11-13,"dMY Technology Group, Inc. III",10.0,10.4,4.0000000000000036
+CFAC,2020-11-13,CF Finance Acquisition Corp. III,10.0,8.97,-10.299999999999997
+HAAC,2020-11-13,Health Assurance Acquisition Corp.,10.0,10.05,0.5000000000000115
+BWAC,2020-11-13,Better World Acquisition Corp.,10.0,10.85,8.5
+DGNS,2020-11-17,Dragoneer Growth Opportunities Corp. II,10.0,10.2,2.0000000000000018
+ZNTE,2020-11-17,Zanite Acquisition Corp.,10.0,11.32,13.200000000000012
+OTRA,2020-11-17,OTR Acquisition Corp.,10.0,9.91,-0.9000000000000008
+PIPP,2020-11-17,Pine Island Acquisition Corp.,10.0,10.03,0.29999999999998916
+PHIC,2020-11-18,"Population Health Investment Co., Inc.",10.0,10.07,0.7000000000000117
+TLS,2020-11-19,Telos Corporation,17.0,3.58,-78.94118
+OLMA,2020-11-19,"Olema Pharmaceuticals, Inc.",19.0,9.66,-49.15789
+CHFW,2020-11-19,Consonance-HFW Acquisition Corp.,10.0,9.79,-2.100000000000013
+NGMS,2020-11-19,NeoGames S.A.,17.0,29.45,73.23529
+RTPZ,2020-11-19,Reinvent Technology Partners Z,10.0,9.79,-2.100000000000013
+IIAC,2020-11-19,Investindustrial Acquisition Corp.,10.0,10.14,1.4000000000000012
+JYAC,2020-11-19,Jiya Acquisition Corp.,10.0,10.04,0.40000000000000036
+YSG,2020-11-19,Yatsen Holding Limited,10.5,4.38,-58.28571
+LNFA,2020-11-19,L&F Acquisition Corp.,10.0,10.57,5.699999999999994
+LSAQ,2020-11-20,LifeSci Acquisition II Corp.,10.0,9.01,-9.899999999999999
+OCA,2020-11-20,Omnichannel Acquisition Corp.,10.0,10.0,
+CAS,2020-11-20,Cascade Acquisition Corp,10.0,10.09,0.8999999999999897
+KWAC,2020-11-20,Kingswood Acquisition Corp.,10.0,13.3,33.0
+ARBG,2020-11-20,Aequi Acquisition Corp.,10.0,,
+MRVI,2020-11-20,"Maravai LifeSciences Holdings, Inc.",27.0,11.1,-58.88889
+SHC,2020-11-20,Sotera Health Company,23.0,11.41,-50.3913
+BREZ,2020-11-23,Breeze Holdings Acquisition Corp.,10.0,11.4,14.0
+VMAR,2020-11-24,Vision Marine Technologies Inc.,10.0,0.6949,-93.051
+OZON,2020-11-24,Ozon Holdings PLC,30.0,,
+HFEN,2020-11-24,"HF Enterprises, Inc.",7.0,6.15,-12.142857142857133
+TINV,2020-11-24,Tiga Acquisition Corp.,10.0,36.5,265.0
+SV,2020-11-24,Spring Valley Acquisition Corp.,10.0,10.0,
+VCVC,2020-11-24,10X Capital Venture Acquisition Corp,10.0,9.85,-1.5000000000000013
+GNPK,2020-11-24,Genesis Park Acquisition Corp.,10.0,10.5,5.000000000000004
+FRX,2020-11-25,Forest Road Acquisition Corp.,10.0,12.0,19.999999999999996
+SPRQ,2020-11-25,Spartan Acquisition Corp. II,10.0,9.46,-5.399999999999993
+SGAM,2020-11-30,Seaport Global Acquisition Corp.,10.0,9.62,-3.8000000000000034
+RSVA,2020-12-02,Rodgers Silicon Valley Acquisition Corp,10.0,20.36,103.60000000000001
+CAP,2020-12-02,Capitol Investment Corp. V,10.0,7.95,-20.499999999999996
+TACA,2020-12-02,Trepont Acquisition Corp. I,10.0,10.1,1.0000000000000009
+LOKB,2020-12-03,Live Oak Acquisition Corp II,10.0,13.38,33.80000000000001
+HTPA,2020-12-03,Highland Transcend Partners I Corp.,10.0,10.05,0.5000000000000115
+SPFR,2020-12-03,Jaws Spitfire Acquisition Corporation,10.0,8.44,-15.600000000000003
+KNTE,2020-12-03,Kinnate Biopharma Inc.,20.0,2.65,-86.75
+FPAC,2020-12-03,Far Peak Acquisition Corporation,10.0,10.21,2.1
+DCBO,2020-12-03,Docebo Inc.,52.21,36.97,-29.18981
+SGTX,2020-12-04,"Sigilon Therapeutics, Inc.",18.0,22.47,24.83333
+SEER,2020-12-04,"Seer, Inc.",19.0,2.12,-88.84211
+YQ,2020-12-04,17 Education & Technology Group Inc.,10.5,2.61,-75.61905
+FTCV,2020-12-04,FinTech Acquisition Corp. V,10.0,10.06,0.6000000000000005
+PTIC,2020-12-04,Proptech Investment Corporation II,10.0,6.48,-35.199999999999996
+SBTX,2020-12-04,"Silverback Therapeutics, Inc.",21.0,5.87,-72.04761904761905
+CND,2020-12-08,Concord Acquisition Corp,10.0,10.16,1.6000000000000014
+RAAC,2020-12-08,Revolution Acceleration Acquisition Corp.,10.0,9.3,-6.999999999999995
+DDMX,2020-12-08,DD3 Acquisition Corp. II,10.0,9.42,-5.800000000000005
+MUDS,2020-12-08,Mudrick Capital Acquisition Corp. II,10.0,10.16,1.6000000000000014
+DASH,2020-12-09,"DoorDash, Inc.",102.0,116.16,13.88235
+PUBM,2020-12-09,"PubMatic, Inc.",20.0,22.825,14.125
+ALTU,2020-12-09,Altitude Acquisition Corp.,10.0,10.12,1.2
+AI,2020-12-09,"C3.ai, Inc.",42.0,26.2,-37.61905
+FLAC,2020-12-09,Frazier Lifesciences Acquisition Corp.,10.0,9.87,-1.3000000000000123
+NEBC,2020-12-09,Nebula Caravel Acquisition Corp.,10.0,10.99,9.899999999999999
+HMCO,2020-12-09,HumanCo Acquisition Corp.,10.0,10.06,0.6000000000000005
+RMGB,2020-12-10,RMG Acquisition Corp. II,10.0,8.85,-11.5
+PCPC,2020-12-10,Periphas Capital Partnering Corporation,25.0,25.09,0.36000000000000476
+HYFM,2020-12-10,"Hydrofarm Holdings Group, Inc.",20.0,0.86,-95.7
+CTAQ,2020-12-10,Carney Technology Acquisition Corp. II,10.0,10.18,1.8
+ABNB,2020-12-10,"Airbnb, Inc.",68.0,147.19,116.45588
+SNRH,2020-12-11,Senior Connect Acquisition Corp. I,10.0,10.035,0.35
+FDMT,2020-12-11,"4D Molecular Therapeutics, Inc.",23.0,25.64,11.47826
+ABCL,2020-12-11,AbCellera Biologics Inc.,20.0,3.78,-81.1
+NBTX,2020-12-11,Nanobiotix S.A.,13.5,7.26,-46.22222
+EDTX,2020-12-11,EdtechX Holdings Acquisition Corp. II,10.0,63.24,532.4
+VVOS,2020-12-11,"Vivos Therapeutics, Inc.",6.0,2.26,-61.83333
+CERT,2020-12-11,"Certara, Inc.",23.0,16.47,-28.3913
+GLAQ,2020-12-11,Globis Acquisition Corp.,10.0,9.47,-5.299999999999994
+TVAC,2020-12-11,Thayer Ventures Acquisition Corporation,10.0,9.55,-4.499999999999993
+MOTV,2020-12-11,Motive Capital Corp,10.0,10.11,1.0999999999999899
+CBAH,2020-12-11,"CBRE Acquisition Holdings, Inc.",10.0,10.75,7.499999999999996
+GHVI,2020-12-11,"Gores Holdings VI, Inc.",10.0,14.47,44.7
+DWIN,2020-12-11,Delwinds Insurance Acquisition Corp.,10.0,4.25,-57.49999999999999
+ROCC,2020-12-11,Roth CC Acquisition Corp. II,10.0,9.49,-5.099999999999993
+MRAC,2020-12-15,Marquee Raine Acquisition Corp.,10.0,10.92,9.200000000000008
+BLUW,2020-12-15,Blue Water Acquisition Corp.,10.0,9.63,-3.699999999999992
+WNW,2020-12-15,Meiwu Technology Company Limited,5.0,1.23,-75.4
+OCG,2020-12-15,Oriental Culture Holding LTD,4.0,1.41,-64.75
+KINZ,2020-12-15,KINS Technology Group Inc.,10.0,4.1,-0.6
+ATA,2020-12-15,Americas Technology Acquisition Corp.,10.0,10.59,5.899999999999994
+SCPS,2020-12-16,Scopus BioPharma Inc.,5.5,0.0021,-99.96182
+LOGC,2020-12-16,ContextLogic Inc,24.0,5.53,-76.95833
+BCAB,2020-12-16,"BioAtla, Inc.",18.0,3.1,-82.77778
+CCV,2020-12-16,Churchill Capital Corp V,10.0,10.395,3.95
+UPST,2020-12-16,"Upstart Holdings, Inc.",20.0,25.61,28.05
+SCOA,2020-12-17,ScION Tech Growth I,10.0,10.1,1.0
+COOL,2020-12-17,Corner Growth Acquisition Corp.,10.0,11.34,13.4
+MDWT,2020-12-17,Midwest Holding Inc.,70.0,26.99,-61.44285714285714
+VIRI,2020-12-17,"Virios Therapeutics, Inc.",10.0,0.386,-96.14
+SVOK,2020-12-18,Seven Oaks Acquisition Corp.,10.0,9.08,-9.199999999999998
+DUNE,2020-12-18,Dune Acquisition Corporation,10.0,4.05,-59.5
+MTAC,2020-12-18,MedTech Acquisition Corporation,10.0,11.34,13.4
+GFX,2020-12-18,Golden Falcon Acquisition Corp.,10.0,10.23,2.3
+MASS,2020-12-18,908 Devices Inc.,20.0,6.88,-65.6
+IIII,2020-12-18,Insu Acquisition Corp. III,10.0,10.08,0.8
+ACKIT,2020-12-21,Ackrell SPAC Partners I Co.,10.0,,
+GBS,2020-12-23,"GBS, Inc.",17.0,,
+IKT,2020-12-23,"Inhibikase Therapeutics, Inc.",10.0,1.76,-82.4
+VHAQ,2020-12-23,Viveon Health Acquisition Corp.,10.0,10.0,
+VII,2020-12-23,7GC & Co. Holdings Inc.,10.0,10.96,9.6
+CFIV,2020-12-23,CF Acquisition Corp. IV,10.0,10.58,5.8
+HCAR,2020-12-23,Healthcare Services Acquisition Corporation,10.0,10.11,1.1
+VTAQ,2020-12-24,Ventoux CCM Acquisition Corp.,10.0,5.08,-49.2
+MRM,2020-12-29,MEDIROM Healthcare Technologies Inc.,15.0,5.808,-61.28
+FVT,2021-01-05,Fortress Value Acquisition Corp. III,10.0,10.05,0.5000000000000115
+BENE,2021-01-05,Benessere Capital Acquisition Corp.,10.0,10.44,4.400000000000004
+CRU,2021-01-05,Crucible Acquisition Corporation,10.0,10.05,0.5000000000000115
+STPC,2021-01-06,Star Peak Corp. II,10.0,9.87,-1.3000000000000123
+PPGH,2021-01-06,Poema Global Holdings Corp.,10.0,12.74,27.400000000000002
+AKIC,2021-01-06,Sports Ventures Acquisition Corp.,10.0,10.1085,1.085
+KAIR,2021-01-06,Kairos Acquisition Corp.,10.0,10.075,0.75
+VCKA,2021-01-07,Vickers Vantage Corp. I,10.0,9.3506,-6.500000000000005
+AGCB,2021-01-07,Altimeter Growth Corp. 2,10.0,10.11,1.0999999999999899
+VTIQ,2021-01-07,VectoIQ Acquisition Corp. II,10.0,10.06,0.6000000000000005
+BLTS,2021-01-07,Bright Lights Acquisition Corp.,10.0,10.01,0.09999999999998899
+IVAN,2021-01-07,Ivanhoe Capital Acquisition Corp.,10.0,7.68,-23.2
+INKA,2021-01-07,KludeIn I Acquisition Corp.,10.0,10.4235,4.235
+OMEG,2021-01-07,Omega Alpha SPAC,10.0,10.1,1.0
+POW,2021-01-08,Powered Brands,10.0,10.125,1.25
+PACX,2021-01-08,Pioneer Merger Corp.,10.0,10.2,2.0
+EPHY,2021-01-08,Epiphany Technology Acquisition Corp.,10.0,10.095,0.95
+TMKR,2021-01-08,Tastemaker Acquisition Corp.,10.0,10.78,7.8
+GRCL,2021-01-08,Gracell Biotechnologies Inc.,19.0,10.25,-46.05263
+CGEM,2021-01-08,"Cullinan Oncology, Inc.",21.0,23.81,13.38095
+GSAQ,2021-01-08,Global Synergy Acquisition Corp.,10.0,10.0,
+SVFA,2021-01-08,SVF Investment Corp.,10.0,10.15,1.5
+LHC,2021-01-08,Leo Holdings Corp. II,10.0,11.87,18.7
+LWAC,2021-01-08,Locust Walk Acquisition Corp.,10.0,16.98,69.8
+PRSR,2021-01-08,Prospector Capital Corp.,10.0,4.74,-52.6
+PAQC,2021-01-08,Provident Acquisition Corp.,10.0,11.0,10.000000000000009
+KLAQ,2021-01-08,KL Acquisition Corp.,10.0,10.09,0.8999999999999897
+MCAD,2021-01-08,Mountain Crest Acquisition Corp. II,10.0,10.43,4.299999999999993
+EPWR,2021-01-08,Empowerment & Inclusion Capital I Corp.,10.0,10.09,0.8999999999999897
+SWBK,2021-01-08,Switchback II Corporation,10.0,9.35,-6.500000000000005
+LJAQ,2021-01-11,LightJump Acquisition Corporation,10.0,12.1,21.0
+ADEX,2021-01-12,Griid Infrastructure Inc.,10.0,5.38,-46.199999999999996
+KUKE,2021-01-12,Kuke Music Holding Limited,10.0,3.1,-69.0
+GPAC,2021-01-12,Global Partner Acquisition Corp II,10.0,10.82,8.2
+QLI,2021-01-12,Qilian International Holding Group Limited,5.0,0.716,-85.682
+SWET,2021-01-12,Athlon Acquisition Corp.,10.0,10.06,0.6000000000000005
+BCYP,2021-01-12,Big Cypress Acquisition Corp.,10.0,8.44,-15.600000000000003
+ENFA,2021-01-12,"890 5th Avenue Partners, Inc.",10.0,9.62,-3.8000000000000034
+PNTM,2021-01-13,Pontem Corporation,10.0,10.37,3.7
+FCAX,2021-01-13,Fortress Capital Acquisition Corp.,10.0,10.13,1.3
+AFRM,2021-01-13,"Affirm Holdings, Inc.",49.0,31.32,-36.08163
+DLCA,2021-01-13,Deep Lake Capital Acquisition Corp.,10.0,10.12,1.2
+FINM,2021-01-13,Marlin Technology Corporation,10.0,10.14,1.4
+NGAB,2021-01-13,Northern Genesis Acquisition Corp. II,10.0,9.93,-0.7000000000000006
+HLAH,2021-01-13,"Hamilton Lane Alliance Holdings I, Inc.",10.0,10.08,0.8000000000000007
+MSGM,2021-01-13,Motorsport Games Inc.,20.0,2.8,-86.0
+ENVI,2021-01-14,Environmental Impact Acquisition Corp.,10.0,8.82,-11.799999999999999
+SLCR,2021-01-14,Silver Crest Acquisition Corporation,10.0,7.99,-20.099999999999994
+MON,2021-01-14,Monument Circle Acquisition Corp.,10.0,10.07,-71.28571
+WOOF,2021-01-14,"Petco Health and Wellness Company, Inc.",18.0,2.46,-86.33333
+POSH,2021-01-14,"Poshmark, Inc.",42.0,17.9,-57.38095238095238
+PLTK,2021-01-15,Playtika Holding Corp.,27.0,8.99,-66.7037
+DRVN,2021-01-15,Driven Brands Holdings Inc.,22.0,11.12,-49.45455
+HCIC,2021-01-15,Hennessy Capital Investment Corp. V,10.0,10.05,0.5
+CLAS,2021-01-15,Class Acceleration Corp.,10.0,10.17,1.7
+AEAC,2021-01-15,Authentic Equity Acquisition Corp.,10.0,10.13,1.3
+GNAC,2021-01-15,Group Nine Acquisition Corp.,10.0,9.97,-0.3
+HCCC,2021-01-15,Healthcare Capital Corp.,10.0,12.74,27.400000000000002
+EAC,2021-01-15,Edify Acquisition Corp.,10.0,10.65,6.5
+OCAX,2021-01-15,OCA Acquisition Corp.,10.0,11.04,10.4
+TBA,2021-01-15,Thoma Bravo Advantage,10.0,,
+ROT,2021-01-15,Rotor Acquisition Corp.,10.0,10.05,0.5000000000000115
+ADER,2021-01-15,26 Capital Acquisition Corp.,10.0,11.08,10.8
+FOXW,2021-01-20,FoxWayne Enterprises Acquisition Corp.,10.0,10.25,2.5
+TZPS,2021-01-20,TZP Strategies Acquisition Corp.,10.0,10.15,1.5
+LEGO,2021-01-20,Legato Merger Corp.,10.0,11.25,12.5
+GMII,2021-01-20,"Gores Metropoulos II, Inc.",10.0,8.37,-16.300000000000004
+GMBT,2021-01-20,Queen's Gambit Growth Capital,10.0,9.38,-6.199999999999994
+OSTR,2021-01-20,Oyster Enterprises Acquisition Corp.,10.0,10.07,0.7000000000000117
+MYTE,2021-01-21,MYT Netherlands Parent B.V.,26.0,4.9,-81.15385
+DFH,2021-01-21,"Dream Finders Homes, Inc.",13.0,28.69,120.69231
+RLX,2021-01-22,RLX Technology Inc.,12.0,2.15,-82.08333
+PAX,2021-01-22,Patria Investments Limited,17.0,13.17,-22.52941
+MNTK,2021-01-22,"Montauk Renewables, Inc.",8.5,4.89,-42.47059
+PV,2021-01-22,Primavera Capital Acquisition Corporation,10.0,7.63,-23.7
+NAAC,2021-01-22,North Atlantic Acquisition Corporation,10.0,10.15,1.5
+JCIC,2021-01-22,Jack Creek Investment Corp.,10.0,10.19,1.9
+HUDI,2021-01-22,"Huadi International Group Co., Ltd.",8.0,2.87,-64.125
+EUSG,2021-01-22,European Sustainable Growth Acquisition Corp.,10.0,9.77,-2.300000000000002
+LMACA,2021-01-22,Liberty Media Acquisition Corporation,10.0,10.06,0.6000000000000005
+VOSO,2021-01-22,Virtuoso Acquisition Corp.,10.0,14.51,45.10000000000001
+SHAC,2021-01-22,SCP & CO Healthcare Acquisition Company,10.0,10.08,0.8000000000000007
+OEPW,2021-01-22,One Equity Partners Open Water I Corp.,10.0,10.07,0.7000000000000117
+DHHC,2021-01-26,DiamondHead Holdings Corp.,10.0,12.68,26.8
+DNZ,2021-01-26,D and Z Media Acquisition Corp.,10.0,10.16,1.6
+HCII,2021-01-26,Hudson Executive Investment Corp. II,10.0,10.08,0.8
+BIOT,2021-01-26,Biotech Acquisition Company,10.0,10.15,1.5
+EZGO,2021-01-26,EZGO Technologies Ltd.,4.0,1.88,-53.0
+LMAO,2021-01-26,"LMF Acquisition Opportunities, Inc.",10.0,12.35,23.499999999999986
+SSAA,2021-01-26,Science Strategic Acquisition Corp. Alpha,10.0,10.05,0.5000000000000115
+BTNB,2021-01-26,Bridgetown 2 Holdings Limited,10.0,8.33,-16.700000000000003
+NSTB,2021-01-26,Northern Star Investment Corp. II,10.0,0.035,-99.65
+FSSI,2021-01-27,Fortistar Sustainable Solutions Corp.,10.0,10.08,0.8000000000000007
+HCAQ,2021-01-27,HealthCor Catalio Acquisition Corp.,10.0,10.92,9.200000000000008
+CAHC,2021-01-27,CA Healthcare Acquisition Corp.,10.0,9.94,-0.6000000000000005
+CLIM,2021-01-27,Climate Real Impact Solutions II Acquisition Corporation,10.0,10.03,0.29999999999998916
+TIRX,2021-01-27,Tian Ruixiang Holdings Ltd,4.0,2.78,-30.5
+CSTAF,2021-01-27,Constellation Acquisition Corp I,10.0,11.29,
+SHLS,2021-01-27,"Shoals Technologies Group, Inc.",25.0,6.84,-72.64
+ZIM,2021-01-28,ZIM Integrated Shipping Services Ltd.,15.0,18.95,26.33333
+ITHX,2021-01-28,ITHAX Acquisition Corp.,10.0,10.13,5.90909
+VINP,2021-01-28,Vinci Partners Investments Ltd.,18.0,10.8,-40.0
+TLGA,2021-01-28,TLG Acquisition One Corp.,10.0,6.06,-39.4
+XM,2021-01-28,Qualtrics International Inc.,30.0,18.14,-39.53333
+IGNY,2021-01-28,Ignyte Acquisition Corp.,10.0,13.05,30.500000000000014
+OCDX,2021-01-28,Ortho Clinical Diagnostics Holdings plc,17.0,17.63,3.705882352941181
+AGFY,2021-01-28,Agrify Corporation,10.0,0.345,-96.55
+TRIN,2021-01-29,Trinity Capital Inc.,14.0,14.88,6.28571
+MIT,2021-01-29,"Mason Industrial Technology, Inc.",10.0,10.14,1.4
+HMPT,2021-01-29,Home Point Capital Inc.,13.0,2.32,-82.15384615384616
+EQHA,2021-01-29,EQ Health Acquisition Corp.,10.0,10.06,0.6
+NLSP,2021-01-29,NLS Pharmaceutics AG,4.15,0.1494,-96.4
+BLUA,2021-01-29,BlueRiver Acquisition Corp.,10.0,11.05,10.5
+CLRM,2021-01-29,Clarim Acquisition Corp.,10.0,10.07,0.7000000000000117
+ZWRK,2021-01-29,Z-Work Acquisition Corp.,10.0,10.08,0.8000000000000007
+CFV,2021-01-29,CF Acquisition Corp. V,10.0,8.65,-13.5
+GCAC,2021-01-29,Growth Capital Acquisition Corp.,10.0,7.99,-20.099999999999994
+BCAC,2021-01-29,Brookline Capital Acquisition Corp.,10.0,22.71,127.1
+THMA,2021-02-02,Thimble Point Acquisition Corp.,10.0,9.3,-6.999999999999995
+NRAC,2021-02-02,Northern Revival Acquisition Corp,10.0,11.01,10.1
+JWSM,2021-02-02,Jaws Mustang Acquisition Corporation,10.0,11.06,10.6
+MDH,2021-02-02,MDH Acquisition Corp.,10.0,10.04,0.4
+AAC,2021-02-02,Ares Acquisition Corporation,10.0,10.79,7.9
+ONTF,2021-02-03,"ON24, Inc.",50.0,6.54,-86.92
+PRPC,2021-02-03,CC Neuberger Principal Holdings III,10.0,10.95,9.5
+KRNL,2021-02-03,"Kernel Group Holdings, Inc.",10.0,10.92,9.2
+TIXT,2021-02-03,TELUS International (Cda) Inc.,25.0,6.34,-74.64
+GHAC,2021-02-03,Gaming & Hospitality Acquisition Corp.,10.0,10.07,0.7000000000000117
+TMAC,2021-02-03,The Music Acquisition Corporation,10.0,10.1,1.0000000000000009
+SANA,2021-02-04,"Sana Biotechnology, Inc.",25.0,8.55,-65.8
+ASAX,2021-02-04,Astrea Acquisition Corp.,10.0,10.08,0.8
+LABP,2021-02-04,"Landos Biopharma, Inc.",16.0,22.3,39.375
+SNSE,2021-02-04,"Sensei Biotherapeutics, Inc.",19.0,1.59,-91.63158
+CENH,2021-02-04,Centricus Acquisition Corp.,10.0,8.35,-16.500000000000004
+ITQ,2021-02-04,Itiquira Acquisition Corp.,10.0,10.17,1.7
+DCRN,2021-02-04,Decarbonization Plus Acquisition Corporation II,10.0,9.33,-6.699999999999995
+ATC,2021-02-04,Atotech Limited,17.0,22.71,33.58823529411765
+ACII,2021-02-04,Atlas Crest Investment Corp. II,10.0,10.07,0.7000000000000117
+NXU,2021-02-04,Novus Capital Corporation II,10.0,11.55,15.500000000000004
+TBCP,2021-02-05,Thunder Bridge Capital Partners III Inc.,10.0,10.21,2.1
+PHVS,2021-02-05,Pharvaris N.V.,20.0,21.71,8.55
+GSQD,2021-02-05,G Squared Ascend I Inc.,10.0,10.1737,1.737
+TERN,2021-02-05,"Terns Pharmaceuticals, Inc.",17.0,6.14,-63.88235
+COVA,2021-02-05,COVA Acquisition Corp.,10.0,10.55,5.5
+CPUH,2021-02-05,Compute Health Acquisition Corp.,10.0,10.36,3.6
+HHLA,2021-02-05,HH&L Acquisition Co.,10.0,10.75,7.5
+RMGCF,2021-02-05,RMG Acquisition Corp. III,10.0,9.75,-2.5
+IMCR,2021-02-05,Immunocore Holdings plc,26.0,54.25,108.65385
+VOR,2021-02-05,Vor Biopharma Inc.,18.0,1.8,-90.0
+SDAC,2021-02-05,Sustainable Development Acquisition I Corp.,10.0,10.4,4.0
+EVAX,2021-02-05,Evaxion Biotech A/S,10.0,3.83,-61.7
+ELTX,2021-02-05,"Elicio Therapeutics, Inc.",,9.38,
+BOLT,2021-02-05,"Bolt Biotherapeutics, Inc.",20.0,0.8251,-95.8745
+CNEY,2021-02-05,CN Energy Group. Inc.,4.0,0.6697,-83.2575
+KURI,2021-02-05,Alkuri Global Acquisition Corp.,10.0,9.2,-8.000000000000007
+ATMR,2021-02-05,Altimar Acquisition Corp. II,10.0,10.53,5.299999999999994
+FWAA,2021-02-05,Fifth Wall Acquisition Corp. I,10.0,12.1,20.999999999999996
+JOFF,2021-02-05,JOFF Fintech Acquisition Corp.,10.0,10.1,1.0000000000000009
+LHDXQ,2021-02-05,Lucira Health Inc.,,0.0001,
+QFTA,2021-02-05,Quantum FinTech Acquisition Corporation,10.0,5.2,-18.0
+BAOS,2021-02-08,Baosheng Media Group Holdings Limited,5.0,3.4186,-31.628
+CPTK,2021-02-09,Crown Proptech Acquisitions,10.0,,
+VENA,2021-02-09,Venus Acquisition Corporation,10.0,10.47,4.700000000000015
+ADAG,2021-02-09,Adagene Inc.,19.0,2.57,-86.47368
+PICC,2021-02-09,Pivotal Investment Corporation III,10.0,10.0,
+RAASY,2021-02-09,Cloopen Group Holding Ltd - ADR,16.0,0.05,
+PGRW,2021-02-09,Progress Acquisition Corp.,10.0,10.31,3.1
+ADRA,2021-02-09,Adara Acquisition Corp.,10.0,3.85,-60.0
+EPOW,2021-02-09,"Sunrise New Energy Co., Ltd.",4.0,0.74,-81.5
+ENNV,2021-02-09,ECP Environmental Growth Opportunities Corp.,10.0,7.63,-23.7
+PMGM,2021-02-09,Priveterra Acquisition Corp.,10.0,10.84,8.400000000000007
+EVOJ,2021-02-09,Evo Acquisition Corp.,10.0,10.12,1.2
+SPAQ,2021-02-09,Spartan Acquisition Corp. III,10.0,6.46,-35.4
+GIG,2021-02-09,"GigCapital4, Inc.",10.0,10.03,0.29999999999998916
+FORE,2021-02-10,Foresight Acquisition Corp.,10.0,9.48,-5.199999999999994
+BPTS,2021-02-10,Biophytis S.A.,16.75,,
+VLON,2021-02-10,"Vallon Pharmaceuticals, Inc.",8.0,,
+APGB,2021-02-10,Apollo Strategic Growth Capital II,10.0,10.58,5.8
+SCOB,2021-02-10,ScION Tech Growth II,10.0,10.195,1.95
+DSP,2021-02-10,Viant Technology Inc.,25.0,9.72,-61.12
+LGAC,2021-02-10,Lazard Growth Acquisition Corp. I,10.0,10.18,1.8
+XPDI,2021-02-10,Power & Digital Infrastructure Acquisition Corp.,10.0,9.6,-4.0000000000000036
+SGFY,2021-02-11,"Signify Health, Inc.",24.0,30.49,27.04167
+BMBL,2021-02-11,Bumble Inc.,43.0,12.13,-71.7907
+PUCK,2021-02-11,Goal Acquisitions Corp.,10.0,10.85,8.5
+BVS,2021-02-11,Bioventus Inc.,13.0,6.63,-49.0
+APR,2021-02-11,"Apria, Inc.",20.0,37.5,87.5
+IACB,2021-02-11,ION Acquisition Corp. 2 Ltd.,10.0,7.95,-20.499999999999996
+LDI,2021-02-11,"loanDepot, Inc.",14.0,2.2,-84.28571
+CHAA,2021-02-12,Catcha Investment Corp,10.0,11.4,14.0
+CVII,2021-02-12,Churchill Capital Corp VII,10.0,10.73,7.3
+CCVI,2021-02-12,Churchill Capital Corp VI,10.0,10.485,4.85
+DBTX,2021-02-12,"Decibel Therapeutics, Inc.",18.0,4.91,-72.72222
+SLAC,2021-02-12,Social Leverage Acquisition Corp I,10.0,10.42,3.1
+LGVN,2021-02-12,Longeveron Inc.,10.0,1.29,-87.1
+BITE,2021-02-12,Bite Acquisition Corp.,10.0,8.34,-16.6
+TLIS,2021-02-12,Talis Biomedical Corporation,16.0,9.16,-42.75
+NEXI,2021-02-12,"NexImmune, Inc.",17.0,3.44,-79.76471
+SCLE,2021-02-12,Broadscale Acquisition Corp.,10.0,10.05,0.5000000000000115
+TSIB,2021-02-12,Tishman Speyer Innovation Corp. II,10.0,10.06,0.6000000000000005
+RCLF,2021-02-12,Rosecliff Acquisition Corp I,10.0,11.57,15.7
+TCAC,2021-02-12,Tuatara Capital Acquisition Corporation,10.0,8.55,-14.499999999999991
+MSAC,2021-02-16,Medicus Sciences Acquisition Corp.,10.0,,
+FSII,2021-02-17,FS Development Corp. II,10.0,9.8,-1.9999999999999907
+VRPX,2021-02-17,"Virpax Pharmaceuticals, Inc.",10.0,0.8,-92.0
+AUUD,2021-02-17,Auddia Inc.,4.125,1.45,-64.84848
+MACA,2021-02-17,Moringa Acquisition Corp,10.0,11.16,11.6
+ABGI,2021-02-17,ABG Acquisition Corp. I,10.0,10.18,1.8000000000000016
+SPTK,2021-02-17,SportsTek Acquisition Corp.,10.0,10.15,1.5
+PFDR,2021-02-17,Pathfinder Acquisition Corporation,10.0,8.58,-14.2
+NVSA,2021-02-17,New Vista Acquisition Corp,10.0,10.17,1.7
+KIII,2021-02-18,Kismet Acquisition Three Corp.,10.0,10.16,1.6
+FSRX,2021-02-18,FinServ Acquisition Corp. II,10.0,10.34,3.4
+QDRO,2021-02-18,Quadro Acquisition One Corp.,10.0,11.06,10.6
+FACA,2021-02-19,Figure Acquisition Corp. I,10.0,10.04,0.4
+BRPM,2021-02-19,B. Riley Principal 150 Merger Corp.,10.0,13.02,30.200000000000003
+TWNFF,2021-02-19,Tailwind International Acquisition Corp.,,10.18,
+SPGS,2021-02-19,"Simon Property Group Acquisition Holdings, Inc.",10.0,10.09,0.8999999999999897
+ASPC,2021-02-19,Alpha Capital Acquisition Company,10.0,6.95,-30.499999999999993
+CFVI,2021-02-19,CF Acquisition Corp. VI,10.0,12.04,20.399999999999995
+GSEV,2021-02-23,"Gores Holdings VII, Inc.",10.0,10.0,
+CMII,2021-02-23,"CM Life Sciences II, Inc.",10.0,10.63,6.300000000000017
+SLAM,2021-02-23,Slam Corp.,10.0,11.08,10.8
+FTAA,2021-02-23,FTAC Athena Acquisition Corp.,10.0,10.165,1.65
+ANAC,2021-02-23,Arctos NorthStar Acquisition Corp.,10.0,10.19,1.9
+VELO,2021-02-23,Velocity Acquisition Corp.,10.0,10.02,0.2
+BOAS,2021-02-24,BOA Acquisition Corp.,10.0,9.13,-8.699999999999996
+COLI,2021-02-24,Colicity Inc.,10.0,10.07,0.7000000000000117
+SRNG,2021-02-24,Soaring Eagle Acquisition Corp.,10.0,12.18,21.799999999999997
+GLBL,2021-02-24,Cartesian Growth Corporation,10.0,10.33,3.3
+HIII,2021-02-24,Hudson Executive Investment Corp. III,10.0,10.08,0.8
+GIIX,2021-02-25,"Gores Holdings VIII, Inc.",10.0,10.06,0.6
+HUGS,2021-02-25,USHG Acquisition Corp.,10.0,10.05,0.5
+FLME,2021-02-25,Flame Acquisition Corp.,10.0,12.1,21.0
+EJFA,2021-02-25,EJF Acquisition Corp.,10.0,5.91,-40.900000000000006
+SCR,2021-02-25,"Score Media & Gaming, Inc.",27.0,35.58,31.77777777777777
+ISLE,2021-02-25,Isleworth Healthcare Acquisition Corp.,10.0,10.01,0.09999999999998899
+WARR,2021-02-26,Warrior Technologies Acquisition Company,10.0,10.01,0.09999999999998899
+FACT,2021-02-26,Freedom Acquisition I Corp.,10.0,5.45,-5.0
+FSNB,2021-02-26,Fusion Acquisition Corp. II,10.0,,
+AGACF,2021-02-26,African Gold Acquisition Corp,10.0,10.12,1.2
+TWLV,2021-02-26,Twelve Seas Investment Company II,10.0,10.89,8.9
+IBER,2021-02-26,Ibere Pharmaceuticals,10.0,10.18,1.8
+KCAC2,2021-02-26,Kensington Capital Acquisition Corp. II,10.0,8.07,-19.299999999999994
+AUS,2021-02-26,Austerlitz Acquisition Corporation I,10.0,9.98,-0.20000000000000018
+ASZ,2021-02-26,Austerlitz Acquisition Corporation II,10.0,9.99,-0.10000000000000009
+MACQ,2021-02-26,MCAP Acquisition Corporation,10.0,9.66,-3.400000000000003
+SBEA,2021-02-26,SilverBox Engaged Merger Corp. I,10.0,12.01,20.10000000000001
+LIII,2021-02-26,Leo Holdings III Corp.,10.0,9.45,-5.500000000000005
+ARYD,2021-02-26,ARYA Sciences Acquisition Corp IV,10.0,11.37,13.7
+FTEV,2021-03-02,FinTech Evolution Acquisition Group,10.0,10.1801,1.801
+LOKM,2021-03-02,Live Oak Mobility Acquisition Corp.,10.0,10.15,1.5
+ARRW,2021-03-02,Arrowroot Acquisition Corp.,10.0,18.0,80.0
+GBRG,2021-03-02,Goldenbridge Acquisition Limited,10.0,6.11,-38.9
+DHCA,2021-03-02,DHC Acquisition Corp.,10.0,7.7,-23.0
+NSTD,2021-03-02,Northern Star Investment Corp. IV,10.0,0.1,-99.0
+ANZU,2021-03-02,Anzu Special Acquisition Corp I,10.0,6.86,-29.85
+HYAC2,2021-03-02,Haymaker Acquisition Corp. III,10.0,9.02,-9.800000000000008
+OHPA,2021-03-02,Orion Acquisition Corp.,10.0,10.08,0.8000000000000007
+SNII,2021-03-02,"Supernova Partners Acquisition Company II, Ltd.",10.0,10.24,2.400000000000002
+DHBC,2021-03-02,DHB Capital Corp.,10.0,10.1,1.0000000000000009
+AMPI,2021-03-02,"Advanced Merger Partners, Inc.",10.0,10.07,0.7000000000000117
+TSPQ,2021-03-02,TCW Special Purpose Acquisition Corp.,10.0,10.02,0.20000000000000018
+NSTC,2021-03-02,Northern Star Investment Corp. III,10.0,0.0785,-99.215
+NDAC,2021-03-02,Nightdragon Acquisition Corp.,10.0,10.08,0.8000000000000007
+ROCR,2021-03-03,Roth CH Acquisition III Co.,10.0,9.16,-8.399999999999997
+ISOS,2021-03-03,Isos Acquisition Corp.,10.0,10.0,
+MACC,2021-03-03,Mission Advancement Corp.,10.0,10.06,0.6000000000000005
+OSCR,2021-03-03,"Oscar Health, Inc.",39.0,22.15,-43.20513
+HERA,2021-03-04,FTAC Hera Acquisition Corp.,10.0,10.19,1.9
+INNV,2021-03-04,InnovAge Holding Corp.,21.0,3.82,-81.80952
+RXRA,2021-03-04,RXR Acquisition Corp.,10.0,10.04,0.4
+PSAG,2021-03-04,Property Solutions Acquisition Corp. II,10.0,10.08,0.8
+ACAH,2021-03-04,Atlantic Coastal Acquisition Corp.,10.0,10.45,4.5
+AURC,2021-03-04,Aurora Acquisition Corp.,10.0,17.4425,74.425
+KVSA,2021-03-04,Khosla Ventures Acquisition Co.,10.0,10.74,7.4
+TRCA,2021-03-04,Twin Ridge Capital Acquisition Corp.,10.0,7.87,-21.3
+ATAQ,2021-03-04,Altimar Acquisition Corp. III,10.0,10.43,4.3
+MBAC,2021-03-04,M3-Brigade Acquisition II Corp.,10.0,10.59,5.9
+VPCB,2021-03-05,VPC Impact Acquisition Holdings II,10.0,10.28,2.8
+WPCB,2021-03-05,Warburg Pincus Capital Corporation I-B,10.0,10.21,2.1
+IPVI,2021-03-05,InterPrivate IV InfraTech Partners Inc.,10.0,10.12,1.200000000000001
+IPVA,2021-03-05,InterPrivate II Acquisition Corp.,10.0,8.815,-11.799999999999999
+WPCA,2021-03-05,Warburg Pincus Capital Corporation I-A,10.0,10.21,2.1
+IPVF,2021-03-05,InterPrivate III Financial Partners Inc.,10.0,11.0,10.0
+IRAA,2021-03-05,Iris Acquisition Corp,10.0,10.51,5.1
+VPCC,2021-03-05,"VPC Impact Acquisition Holdings III, Inc.",10.0,8.21,-17.899999999999995
+TWNT,2021-03-05,Tailwind Two Acquisition Corp.,10.0,10.96,9.600000000000009
+DMYQ,2021-03-05,"dMY Technology Group, Inc. IV",10.0,10.81,8.099999999999996
+LHAA,2021-03-05,Lerer Hippeau Acquisition Corp.,10.0,10.08,0.8000000000000007
+FRSG,2021-03-05,First Reserve Sustainable Growth Corp.,10.0,10.15,1.5
+SVFC,2021-03-09,SVF Investment Corp. 3,10.0,9.1,-9.000000000000007
+GROY,2021-03-09,Gold Royalty Corp.,5.0,1.83,-63.4
+SVFB,2021-03-09,SVF Investment Corp. 2,10.0,10.21,2.1
+PDOT,2021-03-09,Peridot Acquisition Corp. II,10.0,10.18,1.8
+ACQR,2021-03-09,Independence Holdings Corp.,10.0,10.19,1.9
+RBLX,2021-03-10,Roblox Corporation,45.0,32.76,-27.2
+CLAA,2021-03-10,Colonnade Acquisition Corp. II,10.0,10.2,2.0
+ESM,2021-03-10,ESM Acquisition Corporation,10.0,10.2,2.0
+AGGR,2021-03-10,Agile Growth Corp.,10.0,10.21,2.1
+VAQC,2021-03-10,Vector Acquisition Corporation II,10.0,10.67,6.7
+FRXB,2021-03-10,Forest Road Acquisition Corp. II,10.0,10.43,4.3
+SBII,2021-03-10,Sandbridge X2 Corp.,10.0,10.1,1.0000000000000009
+FRW,2021-03-10,PWP Forward Acquisition Corp. I,10.0,10.02,0.20000000000000018
+DTOC,2021-03-10,Digital Transformation Opportunities Corp.,10.0,25.97,159.7
+CPNG,2021-03-11,"Coupang, Inc.",35.0,22.87,-34.65714
+PTOC,2021-03-11,Pine Technology Acquisition Corp.,10.0,10.17,1.7
+LCAA,2021-03-11,L Catterton Asia Acquisition Corp,10.0,13.51,35.1
+FRON,2021-03-11,Frontier Acquisition Corp.,10.0,10.17,1.7
+ATSP,2021-03-11,Archimedes Tech SPAC Partners Co.,10.0,8.1,-19.000000000000007
+FHS,2021-03-11,"First High-School Education Group Co., Ltd.",10.0,0.276,-97.24000000000001
+GAPA,2021-03-11,G&P Acquisition Corp.,10.0,10.15,1.5000000000000124
+SPKB,2021-03-11,Silver Spike Acquisition Corp II,10.0,10.22,2.2
+FTPA,2021-03-12,FTAC Parnassus Acquisition Corp.,10.0,10.14,1.4
+RXDX,2021-03-12,"Prometheus Biosciences, Inc.",19.0,199.92,952.21053
+LBPH,2021-03-12,"Longboard Pharmaceuticals, Inc.",16.0,20.51,28.1875
+ROSS,2021-03-12,Ross Acquisition Corp II,10.0,11.08,10.80000000000001
+HAYW,2021-03-12,"Hayward Holdings, Inc.",17.0,14.68,-13.64706
+CFFE,2021-03-12,CF Acquisition Corp. VIII,10.0,16.52,65.2
+STKH,2021-03-12,Steakholder Foods Ltd.,10.3,4.175,-59.46602
+GTPA,2021-03-12,"Gores Technology Partners, Inc.",10.0,10.38,3.8000000000000034
+JOANQ,2021-03-12,JOANN Inc,12.0,0.0759,-99.3675
+SCAQ,2021-03-12,Stratim Cloud Acquisition Corp.,10.0,10.43,4.3
+GTPB,2021-03-12,"Gores Technology Partners II, Inc.",10.0,10.02,0.20000000000000018
+FVIV,2021-03-16,Fortress Value Acquisition Corp. IV,10.0,10.04,0.40000000000000036
+RTPY,2021-03-16,Reinvent Technology Partners Y,10.0,9.91,-0.9000000000000008
+FZT,2021-03-16,FAST Acquisition Corp. II,10.0,7.76,-22.4
+PLMI,2021-03-16,Plum Acquisition Corp. I,10.0,10.52,11.6
+EBAC,2021-03-16,European Biotech Acquisition Corp.,10.0,,
+WALD,2021-03-16,Waldencast plc,10.0,4.54,-54.6
+KAHC,2021-03-17,KKR Acquisition Holdings I Corp.,10.0,10.08,0.8
+SNCY,2021-03-17,"Sun Country Airlines Holdings, Inc.",24.0,11.02,-54.08333
+TETC,2021-03-17,Tech and Energy Transition Corporation,10.0,10.17,1.7
+OLO,2021-03-17,Olo Inc.,25.0,4.94,-80.24
+KSI,2021-03-17,Kadem Sustainable Impact Corporation,10.0,10.15,1.5
+ATHN,2021-03-17,Athena Technology Acquisition Corp.,10.0,9.59,-4.100000000000003
+GAMC,2021-03-17,Golden Arrow Merger Corp.,10.0,11.04,10.4
+JWEL,2021-03-17,Jowell Global Ltd.,7.0,1.08,-84.57143
+BGSX,2021-03-17,Build Acquisition Corp.,10.0,10.2,2.0
+TUYA,2021-03-18,Tuya Inc.,21.0,2.01,-90.42857
+NAPA,2021-03-18,"The Duckhorn Portfolio, Inc.",15.0,8.16,-45.6
+GXII,2021-03-18,GX Acquisition Corp. II,10.0,6.69,-33.1
+FMIV,2021-03-18,Forum Merger IV Corporation,10.0,10.36,3.6
+AMAO,2021-03-18,American Acquisition Opportunity Inc.,10.0,7.9032,-20.968
+AAQC,2021-03-18,Accelerate Acquisition Corp.,10.0,10.12,1.200000000000001
+VEI,2021-03-18,"Vine Energy, Inc.",14.0,17.58,25.571428571428555
+REVH,2021-03-18,Revolution Healthcare Acquisition Corp.,10.0,10.04,0.40000000000000036
+RACB,2021-03-18,Research Alliance Corp. II,10.0,10.11,1.0999999999999899
+GANX,2021-03-18,"Gain Therapeutics, Inc.",11.0,2.69,-75.54545
+LVRA,2021-03-19,Levere Holdings Corp.,10.0,10.23,2.3
+LDHA,2021-03-19,LDH Growth Corp I,10.0,10.21,2.1
+AFAQ,2021-03-19,AF Acquisition Corp.,10.0,10.02,0.2
+AFCG,2021-03-19,"AFC Gamma, Inc.",19.0,12.3,-35.26316
+BYTS,2021-03-19,BYTE Acquisition Corp.,10.0,6.49,-35.1
+TIL,2021-03-19,"Instil Bio, Inc.",20.0,11.8,-41.0
+FNCH,2021-03-19,"Finch Therapeutics Group, Inc.",17.0,1.92,-88.52941
+GGMC,2021-03-19,Glenfarne Merger Corp.,10.0,10.17,1.6999999999999904
+LGV,2021-03-19,Longview Acquisition Corp. II,10.0,10.09,0.8999999999999897
+CNTB,2021-03-19,Connect Biopharma Holdings Limited,17.0,1.72,-89.88235
+DGNU,2021-03-23,Dragoneer Growth Opportunities Corp. III,10.0,9.99,-0.1
+LEGA,2021-03-23,"Lead Edge Growth Opportunities, Ltd",10.0,10.22,2.2
+RKTA,2021-03-23,Rocket Internet Growth Opportunities Corp.,10.0,10.19,1.9
+TBSA,2021-03-23,TB SA Acquisition Corp,10.0,10.205,2.05
+OPA,2021-03-23,Magnum Opus Acquisition Limited,10.0,,
+STRE,2021-03-23,"Supernova Partners Acquisition Company III, Ltd.",10.0,10.23,2.3
+MOVE,2021-03-23,Movano Inc.,5.0,0.44,-91.2
+UPC,2021-03-23,Universe Pharmaceuticals INC,5.0,2.51,-49.8
+NGCA,2021-03-23,NextGen Acquisition Corp. II,10.0,9.25,-7.499999999999996
+ACTD,2021-03-23,ArcLight Clean Transition Corp. II,10.0,7.6,-24.0
+GLHA,2021-03-23,Glass Houses Acquisition Corp.,10.0,10.08,0.8000000000000007
+VGII,2021-03-23,Virgin Group Acquisition Corp. II,10.0,5.96,-40.400000000000006
+GGPI,2021-03-23,"Gores Guggenheim, Inc.",10.0,11.23,12.3
+NBST,2021-03-23,Newbury Street Acquisition Corporation,10.0,10.84,8.4
+DOCN,2021-03-24,"DigitalOcean Holdings, Inc.",47.0,37.32,-20.59574
+ACVA,2021-03-24,ACV Auctions Inc.,25.0,18.23,-27.08
+KVSC,2021-03-24,Khosla Ventures Acquisition Co. III,10.0,10.2,2.0
+NGC,2021-03-24,Northern Genesis Acquisition Corp. III,10.0,10.16,1.6
+DISA,2021-03-24,Disruptive Acquisition Corporation I,10.0,10.68,6.8
+KVSB,2021-03-24,Khosla Ventures Acquisition Co. II,10.0,11.12,11.199999999999989
+DCRC,2021-03-24,Decarbonization Plus Acquisition Corporation III,10.0,13.01,30.099999999999994
+CRZN,2021-03-24,Corazon Capital V838 Monoceros Corp,10.0,10.225,2.25
+OLK,2021-03-25,Olink Holding AB (publ),20.0,23.95,19.75
+SEMR,2021-03-25,"Semrush Holdings, Inc.",14.0,15.49,10.64286
+VZIO,2021-03-25,VIZIO Holding Corp.,21.0,10.59,-49.57143
+DSEY,2021-03-25,"Diversey Holdings, Ltd.",15.0,8.39,-44.06666666666666
+MSDA,2021-03-25,MSD Acquisition Corp.,10.0,10.235,2.35
+EEIQ,2021-03-25,EpicQuest Education Group International Limited,8.0,0.97,-87.625
+CRCT,2021-03-25,"Cricut, Inc.",20.0,7.06,-64.7
+LVTX,2021-03-25,LAVA Therapeutics N.V.,15.0,2.76,-81.6
+LCA,2021-03-25,"Landcadia Holdings IV, Inc.",10.0,10.55,5.5
+EWTX,2021-03-26,"Edgewise Therapeutics, Inc.",16.0,18.18,13.625
+ALHC,2021-03-26,"Alignment Healthcare, Inc.",18.0,6.99,-61.16667
+HYW,2021-03-26,Hywin Holdings Ltd.,10.0,0.7342,-92.658
+DSGN,2021-03-26,"Design Therapeutics, Inc.",20.0,4.5,-77.5
+TDUP,2021-03-26,ThredUp Inc.,14.0,2.07,-85.21429
+ZH,2021-03-26,Zhihu Inc.,9.5,3.92,-58.73684
+IKNA,2021-03-26,"Ikena Oncology, Inc.",16.0,1.4,-91.25
+TWOA,2021-03-30,two,10.0,10.7,7.0
+ACHL,2021-03-31,Achilles Therapeutics plc,18.0,0.9151,-94.88889
+MBTC,2021-03-31,Nocturne Acquisition Corporation,10.0,11.66,16.6
+COUR,2021-03-31,"Coursera, Inc.",33.0,8.71,-73.60606
+COMP,2021-04-01,"Compass, Inc.",18.0,4.35,-75.83333
+ULCC,2021-04-01,"Frontier Group Holdings, Inc.",19.0,6.03,-68.26316
+EM,2021-04-01,Smart Share Global Limited,8.5,1.12,-86.82353
+KARO,2021-04-01,Karooooo Ltd.,47.52,27.5,-42.12963
+ACBA,2021-04-06,Ace Global Business Acquisition Limited,10.0,12.23,22.3
+WTO,2021-04-06,UTime Limited,4.0,0.401,-89.975
+CMLT,2021-04-07,"CM Life Sciences III, Inc.",10.0,8.69,-13.100000000000001
+PANA,2021-04-07,Panacea Acquisition Corp. II,10.0,10.25,2.5
+MPAC,2021-04-08,Model Performance Acquisition Corp.,10.0,7.99,-20.1
+TIOA,2021-04-08,Tio Tech A,10.0,,
+GLSPT,2021-04-09,Global SPAC Partners Co.,10.0,14.01,40.1
+ADF,2021-04-09,"Aldel Financial, Inc.",10.0,10.66,6.600000000000006
+TPGS,2021-04-09,TPG Pace Solutions Corp.,10.0,9.97,-0.29999999999998916
+RPHM,2021-04-09,"Reneo Pharmaceuticals, Inc.",15.0,1.66,-88.93333
+VECT,2021-04-09,VectivBio Holding AG,17.0,16.85,-0.88235
+COIN,2021-04-14,"Coinbase Global, Inc.",250.0,199.17,-20.332
+ALKT,2021-04-14,"Alkami Technology, Inc.",30.0,26.64,-11.2
+YTPG,2021-04-14,TPG Pace Beneficial II Corp.,10.0,9.99,-0.1
+TCVA,2021-04-14,TCV Acquisition Corp.,10.0,10.235,2.35
+APP,2021-04-15,AppLovin Corporation,80.0,83.23,4.0375
+EBET,2021-04-15,"EBET, Inc.",6.0,0.24,-96.0
+KRT,2021-04-15,Karat Packaging Inc.,16.0,28.7,79.375
+TSPH,2021-04-15,Tusimple Holdings Inc,40.0,0.305,-99.2375
+AGL,2021-04-15,"agilon health, inc.",23.0,5.58,-75.73913
+AKYA,2021-04-16,"Akoya Biosciences, Inc.",20.0,2.9,-85.5
+BMEA,2021-04-16,"Biomea Fusion, Inc.",17.0,12.78,-24.82353
+RXRX,2021-04-16,"Recursion Pharmaceuticals, Inc.",18.0,9.51,-47.16667
+IFBD,2021-04-20,"Infobird Co., Ltd",4.0,3.96,-1.0
+TRKAQ,2021-04-20,Troika Media Group Inc,4.5,0.3508,-92.20444
+SKYT,2021-04-21,"SkyWater Technology, Inc.",14.0,8.11,-42.07143
+DV,2021-04-21,"DoubleVerify Holdings, Inc.",27.0,18.88,-30.07407
+PATH,2021-04-21,UiPath Inc.,56.0,20.19,-63.94643
+KNBE,2021-04-22,"KnowBe4, Inc.",16.0,24.89,55.5625
+NPCE,2021-04-22,"NeuroPace, Inc.",17.0,8.56,-49.64706
+ZY,2021-04-22,"Zymergen, Inc.",31.0,2.43,-92.16129032258064
+IMPLQ,2021-04-23,Impel Pharmaceuticals Inc,15.0,0.015,-99.9
+RAIN,2021-04-23,Rain Therapeutics Inc.,17.0,1.21,-92.88235
+TMCI,2021-04-23,"Treace Medical Concepts, Inc.",17.0,5.63,-66.88235
+SWIM,2021-04-23,"Latham Group, Inc.",19.0,3.85,-79.73684
+AGTI,2021-04-23,"Agiliti, Inc.",14.0,10.05,-28.21429
+FTCI,2021-04-28,"FTC Solar, Inc.",13.0,0.4853,-96.26692
+TUGC,2021-04-29,TradeUP Global Corporation,10.0,9.86,-1.4000000000000012
+BSKY,2021-04-29,"Big Sky Growth Partners, Inc.",10.0,10.06,0.6000000000000005
+AVAH,2021-04-29,Aveanna Healthcare Holdings Inc.,12.0,2.65,-77.91667
+PRVA,2021-04-29,"Privia Health Group, Inc.",23.0,17.0,-26.08696
+EDR,2021-04-29,"Endeavor Group Holdings, Inc.",24.0,26.68,11.16667
+IACC,2021-04-30,ION Acquisition Corp. 3 Ltd.,10.0,10.04,0.40000000000000036
+BRNS,2021-04-30,Barinthus Biotherapeutics plc,17.0,2.4299,-85.70647
+HOWL,2021-04-30,"Werewolf Therapeutics, Inc.",16.0,4.88,-69.5
+VLAT,2021-05-04,Valor Latitude Acquisition Corp.,10.0,10.28,2.8
+ALF,2021-05-04,"ALFI, Inc.",4.15,,
+FSBC,2021-05-05,Five Star Bancorp,20.0,22.84,14.2
+MAQC,2021-05-05,Maquia Capital Acquisition Corporation,10.0,11.03,10.3
+HNST,2021-05-05,"The Honest Company, Inc.",16.0,2.99,-81.3125
+VALN,2021-05-06,Valneva SE,26.41,8.815,-66.62249
+OG,2021-05-07,Onion Global Limited,7.25,,
+DKDCA,2021-05-07,Data Knights Acquisition Corp.,10.0,7.76,-22.4
+ANEB,2021-05-07,"Anebulo Pharmaceuticals, Inc.",7.0,2.21,-68.42857
+TALS,2021-05-07,"Talaris Therapeutics, Inc.",17.0,2.72,61.17647
+BRIV,2021-05-07,B. Riley Principal 250 Merger Corp.,10.0,10.185,1.85
+WDH,2021-05-07,Waterdrop Inc.,12.0,1.25,-89.58333
+BWMN,2021-05-07,Bowman Consulting Group Ltd.,14.0,31.82,127.28571
+FLGC,2021-05-11,Flora Growth Corp.,5.0,1.3,-74.0
+IPW,2021-05-12,iPower Inc.,5.0,1.46,-70.8
+SMWB,2021-05-12,Similarweb Ltd.,22.0,7.81,-64.5
+GLBE,2021-05-12,Global-e Online Ltd.,25.0,28.4,13.6
+ORIA,2021-05-13,Orion Biotech Opportunities Corp.,10.0,10.23,2.3
+VERA,2021-05-14,"Vera Therapeutics, Inc.",11.0,41.94,281.27273
+OSI,2021-05-14,Osiris Acquisition Corp.,10.0,10.65,6.5
+DBGI,2021-05-14,"Digital Brands Group, Inc.",4.15,2.71,-34.6988
+EJH,2021-05-14,E-Home Household Service Holdings Limited,4.5,1.03,-77.11111
+ARTA,2021-05-14,Artisan Acquisition Corp.,10.0,10.05,0.5000000000000115
+MCAE,2021-05-18,Mountain Crest Acquisition Corp. III,10.0,4.97,-50.3
+JZXN,2021-05-18,"Jiuzi Holdings, Inc.",5.0,0.3847,-92.306
+POND,2021-05-18,Angel Pond Holdings Corporation,10.0,6.7,11.0
+CPAR,2021-05-18,Catalyst Partners Acquisition Corp.,10.0,10.075,0.75
+RAM,2021-05-19,Aries I Acquisition Corporation,10.0,10.6,6.0
+GIW,2021-05-19,"GigInternational1, Inc.",10.0,10.27,2.7
+SKYA,2021-05-19,Skydeck Acquisition Corp.,10.0,10.25,2.5
+SQSP,2021-05-19,"Squarespace, Inc.",50.0,43.25,-13.5
+OTLY,2021-05-20,Oatly Group AB,17.0,1.25,-92.64706
+PCOR,2021-05-20,"Procore Technologies, Inc.",67.0,69.23,3.32836
+GFOR,2021-05-21,NKGen Biotech Inc,10.0,6.69,-34.4
+FWAC,2021-05-25,Fifth Wall Acquisition Corp. III,10.0,6.05,-39.5
+EGGF,2021-05-26,EG Acquisition Corp.,10.0,11.98,19.8
+PSPC,2021-05-26,Post Holdings Partnering Corporation,10.0,10.23,2.3
+ZIP,2021-05-26,"ZipRecruiter, Inc.",18.0,9.91,-44.94444
+FLYW,2021-05-26,Flywire Corporation,24.0,16.78,-30.08333
+PAY,2021-05-26,"Paymentus Holdings, Inc.",21.0,18.76,-10.66667
+DYNS,2021-05-26,Dynamics Special Purpose Corp.,10.0,7.51,-24.9
+OMIC,2021-05-27,"Singular Genomics Systems, Inc.",22.0,0.371,-98.31364
+FIGS,2021-05-27,"FIGS, Inc.",22.0,5.8,-73.63636
+DAWN,2021-05-27,"Day One Biopharmaceuticals, Inc.",16.0,16.03,0.1875
+OTEC,2021-05-28,OceanTech Acquisitions I Corp.,10.0,11.75,17.5
+CNTA,2021-05-28,Centessa Pharmaceuticals plc,20.0,8.95,-55.25
+DLO,2021-06-03,DLocal Limited,21.0,9.75,-53.57143
+ZMENY,2021-06-08,Zhangmen Education Inc.,11.5,0.486,-95.77391304347826
+SPK,2021-06-08,SPK Acquisition Corp.,10.0,10.3,3.0
+MQ,2021-06-09,"Marqeta, Inc.",27.0,5.65,-79.07407
+SMIH,2021-06-09,Summit Healthcare Acquisition Corp.,10.0,13.0,30.0
+GACQ,2021-06-09,Global Consumer Acquisition Corp.,10.0,10.21,2.1
+CLBR,2021-06-09,Colombier Acquisition Corp.,10.0,13.89,38.9
+ISAA,2021-06-09,Iron Spark I Inc.,10.0,10.08,0.8
+BSGA,2021-06-10,Blue Safari Group Acquisition Corp.,10.0,10.0,
+DIBS,2021-06-10,"1stdibs.Com, Inc.",20.0,5.8,-71.0
+LFST,2021-06-10,"LifeStance Health Group, Inc.",18.0,7.37,-59.05556
+ZETA,2021-06-10,Zeta Global Holdings Corp.,10.0,17.1,71.0
+MNDY,2021-06-10,monday.com Ltd.,155.0,228.4,47.35484
+LAAA,2021-06-11,Lakeshore Acquisition I Corp.,10.0,8.69,-13.100000000000001
+HCNE,2021-06-11,JAWS Hurricane Acquisition Corporation,10.0,10.24,2.4
+LITT,2021-06-11,Logistics Innovation Technologies Corp.,10.0,10.24,2.4
+TASK,2021-06-11,"TaskUs, Inc.",23.0,15.25,-33.69565
+JANX,2021-06-11,"Janux Therapeutics, Inc.",17.0,47.51,179.47059
+BZ,2021-06-11,Kanzhun Limited,19.0,22.12,16.42105
+ALZN,2021-06-15,"Alzamend Neuro, Inc.",5.0,0.649,-87.02
+GSQB,2021-06-15,G Squared Ascend II Inc.,10.0,10.44,4.4
+DILA,2021-06-15,DILA Capital Acquisition Corp.,10.0,10.04,0.4
+ZT,2021-06-16,Zimmer Energy Transition Acquisition Corp.,10.0,10.24,2.4
+CNVY,2021-06-16,"Convey Health Solutions Holdings, Inc.",14.0,10.51,-24.928571428571434
+MOLN,2021-06-16,Molecular Partners AG,21.25,3.87,-81.78824
+RONI,2021-06-16,Rice Acquisition Corp. II,10.0,13.12,31.2
+WKME,2021-06-16,WalkMe Ltd.,31.0,8.39,-72.93548
+TRON,2021-06-17,Corner Growth Acquisition Corp. 2,10.0,13.2,32.0
+AOMR,2021-06-17,"Angel Oak Mortgage, Inc.",19.0,12.26,-35.47368
+VERV,2021-06-17,"Verve Therapeutics, Inc.",19.0,6.38,-66.42105
+LYEL,2021-06-17,"Lyell Immunopharma, Inc.",17.0,2.78,-83.64706
+ISPC,2021-06-17,iSpecimen Inc.,8.0,0.2512,-96.86
+TBIO,2021-06-18,"Telesis Bio, Inc.",16.0,4.35,-72.8125
+FEMY,2021-06-18,Femasys Inc.,13.0,1.29,-90.07692
+IPSC,2021-06-18,"Century Therapeutics, Inc.",20.0,3.13,-84.35
+ATAI,2021-06-18,Atai Life Sciences N.V.,15.0,1.86,-87.6
+JUGG,2021-06-18,Jaws Juggernaut Acquisition Corporation,10.0,10.33,3.3
+NEXN,2021-06-18,Nexxen International Ltd.,19.0,5.76,-69.21053
+RERE,2021-06-18,ATRenew Inc.,14.0,2.91,-79.21429
+AMAM,2021-06-18,Ambrx Biopharma Inc.,18.0,28.0,55.55556
+CYT,2021-06-18,"Cyteir Therapeutics, Inc.",18.0,3.02,-83.22222222222221
+YMM,2021-06-22,Full Truck Alliance Co. Ltd.,19.0,9.04,-52.42105
+GPCO,2021-06-22,Golden Path Acquisition Corporation,10.0,8.41,-15.900000000000002
+CXM,2021-06-23,"Sprinklr, Inc.",16.0,12.43,-22.3125
+MITA,2021-06-23,Coliseum Acquisition Corp.,10.0,10.82,8.2
+FA,2021-06-23,First Advantage Corporation,15.0,16.34,8.93333
+DOCS,2021-06-24,"Doximity, Inc.",26.0,23.74,-8.69231
+FTVI,2021-06-24,FinTech Acquisition Corp. VI,10.0,10.1,1.0
+GLUE,2021-06-24,"Monte Rosa Therapeutics, Inc.",19.0,5.22,-72.52632
+CFLT,2021-06-24,"Confluent, Inc.",36.0,31.53,-12.41667
+NEUE,2021-06-24,"NeueHealth, Inc.",18.0,6.12,-66.0
+UPXI,2021-06-24,"Upexi, Inc.",5.0,0.42,-91.6
+BON,2021-06-24,Bon Natural Life Limited,5.0,2.66,-46.8
+NLIT,2021-06-24,Northern Lights Acquisition Corp.,10.0,10.31,3.100000000000014
+MIRO,2021-06-24,Miromatrix Medical Inc.,9.0,3.39,-62.33333
+GMVDF,2021-06-25,G Medical Innovations Holdings Ltd,5.0,0.0101,-99.798
+MFLTF,2021-06-25,Missfresh Ltd ADR,13.0,,
+ACXP,2021-06-25,"Acurx Pharmaceuticals, Inc.",6.0,2.16,-64.0
+TKNO,2021-06-25,"Alpha Teknova, Inc.",16.0,1.9,-88.125
+ELEV,2021-06-25,"Elevation Oncology, Inc.",16.0,3.61,-77.4375
+LENZ,2021-06-25,"LENZ Therapeutics, Inc.",17.0,16.53,-2.76471
+GHRS,2021-06-25,GH Research PLC,16.0,12.73,-20.4375
+MCW,2021-06-25,"Mister Car Wash, Inc.",15.0,7.43,-50.46667
+EOCW,2021-06-29,Elliott Opportunity II Corp.,10.0,10.36,3.6
+DDL,2021-06-29,Dingdong (Cayman) Limited,23.5,1.9,-91.91489
+GOBI,2021-06-29,Gobi Acquisition Corp.,10.0,10.0,
+DIDIY,2021-06-30,DiDi Global Inc.,14.0,4.6065,-67.09643
+S,2021-06-30,"SentinelOne, Inc.",35.0,22.17,-36.65714
+INTA,2021-06-30,"Intapp, Inc.",26.0,36.63,40.88462
+LZ,2021-06-30,"LegalZoom.com, Inc.",28.0,9.19,-67.17857
+YOU,2021-06-30,"Clear Secure, Inc.",31.0,17.43,-43.77419
+IAS,2021-06-30,Integral Ad Science Holding Corp.,18.0,9.81,-45.5
+XMTR,2021-06-30,"Xometry, Inc.",44.0,15.47,-64.84091
+AVTE,2021-06-30,"Aerovate Therapeutics, Inc.",14.0,21.91,56.5
+DNAC,2021-06-30,Social Capital Suvretta Holdings Corp. III,10.0,9.28,-7.200000000000006
+DNAD,2021-06-30,Social Capital Suvretta Holdings Corp. IV,10.0,10.35,3.5
+SHQA,2021-06-30,Shelter Acquisition Corporation I,10.0,10.02,0.2
+CVRX,2021-06-30,"CVRx, Inc.",18.0,8.08,-55.11111
+THCP,2021-06-30,Thunder Bridge Capital Partners IV Inc.,10.0,10.54,5.1
+MCAF,2021-06-30,Mountain Crest Acquisition Corp. IV,10.0,14.85,48.499999999999986
+CPOP,2021-06-30,"Pop Culture Group Co., Ltd",6.0,1.85,-69.16667
+DNAA,2021-06-30,Social Capital Suvretta Holdings Corp. I,10.0,14.07,40.7
+DNAB,2021-06-30,Social Capital Suvretta Holdings Corp. II,10.0,10.35,3.5
+DNUT,2021-07-01,"Krispy Kreme, Inc.",17.0,11.92,-29.88235
+EVCM,2021-07-01,EverCommerce Inc.,17.0,10.66,-37.29412
+HEPS,2021-07-01,D-Market Elektronik Hizmetler ve Ticaret A.S.,12.0,1.62,-86.5
+DRAY,2021-07-01,Macondray Capital Acquisition Corp. I,10.0,10.23,2.3
+CURV,2021-07-01,Torrid Holdings Inc.,21.0,5.96,-71.61905
+ABOS,2021-07-01,"Acumen Pharmaceuticals, Inc.",16.0,3.73,-76.6875
+CORS,2021-07-01,Corsair Partnering Corporation,10.0,10.3675,3.675
+GGGV,2021-07-01,G3 VRM Acquisition Corp.,10.0,10.13,1.3000000000000123
+FICV,2021-07-01,Frontier Investment Corp,10.0,10.71,7.1
+VRAR,2021-07-01,"The Glimpse Group, Inc.",7.0,1.16,-83.42857
+WAVE,2021-07-01,Eco Wave Power Global AB (publ),8.0,3.06,-61.75
+NYXH,2021-07-02,Nyxoah S.A.,30.0,10.43,-64.98333
+RICO,2021-07-08,Agrico Acquisition Corp.,10.0,13.36,33.59999999999999
+AGRI,2021-07-08,AgriFORCE Growing Systems Ltd.,5.0,0.115,-97.7
+ALCC,2021-07-08,AltC Acquisition Corp.,10.0,18.23,82.3
+MITQ,2021-07-08,"Moving iMage Technologies, Inc.",3.0,0.5,-83.33333
+RNAZ,2021-07-09,"TransCode Therapeutics, Inc.",4.0,0.8848,-77.88
+SNTG,2021-07-09,Sentage Holdings Inc.,5.0,2.11,-57.8
+ACRO,2021-07-09,Acropolis Infrastructure Acquisition Corp.,10.0,10.45,4.5
+GLTA,2021-07-09,Galata Acquisition Corp.,10.0,14.8,48.0
+GWII,2021-07-12,Good Works II Acquisition Corp.,10.0,10.11,1.1
+ARYE,2021-07-13,ARYA Sciences Acquisition Corp V,10.0,10.36,3.6
+UNCY,2021-07-13,"Unicycive Therapeutics, Inc.",5.0,1.03,-79.4
+IINN,2021-07-14,Inspira Technologies Oxy B.H.N. Ltd.,5.51,2.31,-58.07623
+JATT,2021-07-14,JATT Acquisition Corp,10.0,8.16,-18.4
+CLAQ,2021-07-15,CleanTech Acquisition Corp.,10.0,5.6,-44.00000000000001
+PECO,2021-07-15,"Phillips Edison & Company, Inc.",28.0,32.65,16.60714
+SHCO,2021-07-15,Soho House & Co Inc.,,5.33,
+FXLV,2021-07-15,F45 Training Holdings Inc.,16.0,0.06,-99.625
+SERA,2021-07-15,"Sera Prognostics, Inc.",16.0,8.38,-47.625
+UPTD,2021-07-15,TradeUP Acquisition Corp.,10.0,9.34,-6.6
+SGHT,2021-07-15,"Sight Sciences, Inc.",24.0,5.81,-75.79167
+RPID,2021-07-15,"Rapid Micro Biosystems, Inc.",20.0,0.82,-95.9
+APAC,2021-07-16,StoneBridge Acquisition Corporation,10.0,11.7,17.0
+RGC,2021-07-16,Regencell Bioscience Holdings Limited,9.5,5.21,-45.17895
+BRDG,2021-07-16,Bridge Investment Group Holdings Inc.,16.0,7.74,-51.625
+BLND,2021-07-16,"Blend Labs, Inc.",18.0,3.2,-82.22222
+STVN,2021-07-16,Stevanato Group S.p.A.,21.0,20.91,-0.42857
+ERAS,2021-07-16,"Erasca, Inc.",16.0,1.85,-88.4375
+TWCB,2021-07-16,Bilander Acquisition Corp.,10.0,10.24,2.4
+BSAQ,2021-07-16,Black Spade Acquisition Co,10.0,10.2,2.0
+TCRX,2021-07-16,"TScan Therapeutics, Inc.",15.0,8.9,-40.66667
+IMGO,2021-07-16,"Imago BioSciences, Inc.",16.0,,
+CLAY,2021-07-20,Chavant Capital Acquisition Corp.,10.0,10.66,6.6
+HCWB,2021-07-20,HCW Biologics Inc.,8.0,1.1,-86.25
+CLOE,2021-07-20,Clover Leaf Capital Corp.,10.0,12.25,22.5
+TRTL,2021-07-20,TortoiseEcofin Acquisition Corp. III,10.0,10.885,8.85
+VTEX,2021-07-21,VTEX,19.0,7.13,-62.47368
+PYCR,2021-07-21,"Paycor HCM, Inc.",23.0,13.99,-39.17391
+LAW,2021-07-21,"CS Disco, Inc.",32.0,6.97,-78.21875
+PFTA,2021-07-21,Perception Capital Corp. III,10.0,10.78,7.8
+KLTR,2021-07-21,"Kaltura, Inc.",10.0,1.19,-88.1
+VEEE,2021-07-21,Twin Vee Powercats Co.,6.0,0.6801,-88.665
+ABSI,2021-07-22,Absci Corporation,16.0,4.74,-70.375
+BASE,2021-07-22,"Couchbase, Inc.",24.0,26.52,10.5
+INST,2021-07-22,"Instructure Holdings, Inc.",20.0,20.23,1.15
+RYAN,2021-07-22,"Ryan Specialty Holdings, Inc.",23.5,54.16,130.46809
+ZENV,2021-07-22,Zenvia Inc.,13.0,2.23,-82.84615
+ZVIA,2021-07-22,Zevia PBC,14.0,1.09,-92.21429
+BLNG,2021-07-23,Belong Acquisition Corp.,10.0,10.25,2.5
+USCB,2021-07-23,"USCB Financial Holdings, Inc.",10.0,12.26,22.6
+XPOF,2021-07-23,"Xponential Fitness, Inc.",12.0,8.97,-25.25
+GAMB,2021-07-23,Gambling.com Group Limited,8.0,7.84,-2.0
+SOPH,2021-07-23,SOPHiA GENETICS SA,18.0,4.61,-74.38889
+CRBU,2021-07-23,"Caribou Biosciences, Inc.",16.0,3.59,-77.5625
+CTKB,2021-07-23,"Cytek Biosciences, Inc.",17.0,6.18,-63.64706
+CNM,2021-07-23,"Core & Main, Inc.",20.0,60.78,203.9
+OB,2021-07-23,Outbrain Inc.,20.0,4.69,-76.55
+ALPA,2021-07-27,Alpha Healthcare Acquisition Corp. III,10.0,9.8,-2.0
+CADL,2021-07-27,"Candel Therapeutics, Inc.",8.0,12.7,58.75
+WRAC,2021-07-27,Williams Rowland Acquisition Corp.,10.0,10.561,5.61
+DUOL,2021-07-28,"Duolingo, Inc.",102.0,176.08,72.62745
+PWSC,2021-07-28,"PowerSchool Holdings, Inc.",18.0,19.03,5.72222
+SEPA,2021-07-28,SEP Acquisition Corp.,10.0,9.81,-1.9
+SNPO,2021-07-28,Snap One Holdings Corp.,18.0,10.62,-41.0
+DALS,2021-07-28,DA32 Life Science Tech Acquisition Corp.,10.0,10.32,3.2
+PLMJ,2021-07-28,Plum Acquisition Corp. III,10.0,10.8,8.0
+MLNK,2021-07-28,"MeridianLink, Inc.",26.0,17.51,-32.65385
+SWAG,2021-07-29,"Software Acquisition Group, Inc. III",10.0,9.73,-2.6999999999999913
+RLYB,2021-07-29,Rallybio Corporation,13.0,1.86,-85.69231
+IMAQ,2021-07-29,International Media Acquisition Corp.,10.0,11.6,16.0
+ICVX,2021-07-29,"Icosavax, Inc.",15.0,15.31,2.06667
+MTAL,2021-07-29,Metals Acquisition Corp,10.0,13.91,39.1
+RSKD,2021-07-29,Riskified Ltd.,21.0,5.83,-72.2381
+NUVL,2021-07-29,"Nuvalent, Inc.",17.0,72.64,327.29412
+HOOD,2021-07-29,"Robinhood Markets, Inc.",38.0,17.9,-52.89474
+COOK,2021-07-29,"Traeger, Inc.",18.0,2.29,-87.27778
+MXCT,2021-07-30,"MaxCyte, Inc.",13.0,4.8,-63.07692
+RXST,2021-07-30,"RxSight, Inc.",16.0,62.26,289.125
+DOLE,2021-07-30,Dole plc,16.0,12.75,-20.3125
+TNYA,2021-07-30,"Tenaya Therapeutics, Inc.",15.0,4.25,-71.66667
+ZLS,2021-07-30,Zalatoris II Acquisition Corp.,10.0,10.92,9.2
+OMGA,2021-07-30,"Omega Therapeutics, Inc.",17.0,2.38,-86.0
+IMRX,2021-07-30,Immuneering Corporation,15.0,1.54,-89.73333
+INAB,2021-07-30,"IN8bio, Inc.",10.0,1.02,-89.8
+RANI,2021-07-30,"Rani Therapeutics Holdings, Inc.",11.0,5.46,-50.36364
+HWEL,2021-08-03,Healthwell Acquisition Corp. I,10.0,10.47,4.7
+AMCI,2021-08-04,AMCI Acquisition Corp. II,10.0,9.91,-0.9
+BWC,2021-08-04,Blue Whale Acquisition Corp I,10.0,10.15,1.5
+GLEE,2021-08-05,Gladstone Acquisition Corporation,10.0,10.16,1.6000000000000014
+EWCZ,2021-08-05,"European Wax Center, Inc.",17.0,11.22,-34.0
+WEBR,2021-08-05,Weber Inc.,14.0,8.12,-42.0
+IVVD,2021-08-06,"Invivyd, Inc.",17.0,2.45,-85.58824
+NOVV,2021-08-06,Nova Vision Acquisition Corporation,10.0,11.89,18.9
+RVAC,2021-08-06,Riverview Acquisition Corp.,10.0,11.15,11.5
+ROCG,2021-08-06,Roth CH Acquisition IV Co.,10.0,10.11,1.1
+AHPA,2021-08-10,Avista Public Acquisition Corp. II,10.0,6.125,-38.7
+ASPA,2021-08-10,"Abri SPAC I, Inc.",10.0,26.96,170.5
+ELYM,2021-08-10,"Eliem Therapeutics, Inc.",12.5,8.18,-34.56
+CPAA,2021-08-10,Conyers Park III Acquisition Corp.,10.0,10.28,2.8
+DCRD,2021-08-11,Decarbonization Plus Acquisition Corporation IV,10.0,14.15,41.5
+WQGA,2021-08-11,World Quantum Growth Acquisition Corp.,10.0,10.28,2.8
+PONO,2021-08-11,Pono Capital Corp.,10.0,11.05,10.5
+VCXA,2021-08-11,10X Capital Venture Acquisition Corp. II,10.0,6.5565,-34.435
+TPBA,2021-08-11,TPB Acquisition Corporation I,10.0,10.1,1.0000000000000009
+CNTQ,2021-08-11,Chardan NexTech Acquisition 2 Corp.,10.0,14.0,39.99999999999999
+SSBK,2021-08-12,"Southern States Bancshares, Inc.",19.0,26.84,41.26316
+AFTR,2021-08-12,Afternext Healthtech Acquisition Corp,10.0,10.41,4.1
+OXAC,2021-08-12,Oxbridge Acquisition Corp.,10.0,8.6,-14.0
+PPHP,2021-08-12,PHP Ventures Acquisition Corp.,10.0,11.07,10.7
+APMI,2021-08-13,Axonprime Infrastructure Acquisition Corp,10.0,10.32,3.2
+CENQ,2021-08-13,CENAQ Energy Corp.,10.0,10.72,7.2
+JAQC,2021-08-13,Jupiter Acquisition Corporation,10.0,10.34,3.4
+DATS,2021-08-13,"DatChat, Inc.",4.15,1.29,-68.91566
+DRMA,2021-08-13,"Dermata Therapeutics, Inc.",7.0,4.91,-25.71429
+AACI,2021-08-13,Armada Acquisition Corp. I,10.0,11.35,13.5
+KCGI,2021-08-13,Kensington Capital Acquisition Corp. V,10.0,10.98,9.8
+WAVC,2021-08-20,Waverley Capital Acquisition Corp. 1,10.0,10.4302,4.302
+RNXT,2021-08-26,"RenovoRx, Inc.",9.0,1.46,-83.77778
+CCAI,2021-08-26,Cascadia Acquisition Corp.,10.0,12.32,23.2
+SWSS,2021-08-26,Clean Energy Special Situations Corp,10.0,10.96,9.7
+MEOA,2021-08-26,Minority Equality Opportunities Acquisition Inc.,10.0,11.05,10.5
+SEQL,2021-08-27,SeqLL Inc.,4.75,3.12,-34.31579
+DDI,2021-08-31,"DoubleDown Interactive Co., Ltd.",18.0,11.7937,-34.47778
+CHWA,2021-08-31,CHW Acquisition Corporation,10.0,8.28,-17.200000000000003
+REVE,2021-08-31,Alpine Acquisition Corporation,10.0,10.54,5.4
+CNDA,2021-09-01,Concord Acquisition Corp II,10.0,10.6,6.0
+GIPR,2021-09-02,"Generation Income Properties, Inc.",10.0,4.38,-56.2
+INAQ,2021-09-02,Insight Acquisition Corp.,10.0,11.05,10.5
+DTRT,2021-09-02,DTRT Health Acquisition Corp.,10.0,10.335,3.35
+OXUS,2021-09-03,Oxus Acquisition Corp.,10.0,12.5,25.0
+DWAC,2021-09-03,Digital World Acquisition Corp.,10.0,,
+BNNR,2021-09-08,Banner Acquisition Corp.,10.0,10.29,2.9
+SLVR,2021-09-10,SILVERspac Inc.,10.0,10.48,4.8
+FHLT,2021-09-10,Future Health ESG Corp.,10.0,11.4,14.0
+BNIX,2021-09-10,Bannix Acquisition Corp.,10.0,10.94,9.4
+FLAG,2021-09-10,"First Light Acquisition Group, Inc.",10.0,4.9,-20.8
+PAFO,2021-09-14,Pacifico Acquisition Corp.,10.0,4.2,-58.0
+SRAD,2021-09-14,Sportradar Group AG,27.0,10.6,-60.74074
+ONON,2021-09-15,On Holding AG,24.0,36.64,52.66667
+BROS,2021-09-15,Dutch Bros Inc.,23.0,37.78,64.26087
+PRCT,2021-09-15,PROCEPT BioRobotics Corporation,25.0,68.14,172.56
+DICE,2021-09-15,"DICE Therapeutics, Inc.",17.0,47.55,179.70588
+TWKS,2021-09-15,"Thoughtworks Holding, Inc.",21.0,3.21,-84.71429
+TYRA,2021-09-15,"Tyra Biosciences, Inc.",16.0,19.1,19.375
+CIIG,2021-09-15,"CIIG Capital Partners II, Inc.",10.0,8.75,-12.5
+AEHA,2021-09-15,Aesther Healthcare Acquisition Corp.,10.0,9.9608,-0.392
+DH,2021-09-15,Definitive Healthcare Corp.,27.0,5.5,-79.62963
+EDNC,2021-09-15,Endurance Acquisition Corp.,10.0,8.29,-17.100000000000005
+SIER,2021-09-15,Sierra Lake Acquisition Corp.,10.0,10.12,1.200000000000001
+EZFL,2021-09-15,EZFill Holdings Inc.,4.0,2.54,-36.5
+WINV,2021-09-15,WinVest Acquisition Corp.,10.0,11.2,12.0
+KTTA,2021-09-15,Pasithea Therapeutics Corp.,5.0,6.5,30.0
+FLYA,2021-09-16,Soar Technology Acquisition Corp.,10.0,10.41,4.1
+FORG,2021-09-16,"ForgeRock, Inc.",25.0,23.21,-7.16
+ACT,2021-09-16,"Enact Holdings, Inc.",19.0,31.53,65.94737
+HHGC,2021-09-21,HHG Capital Corporation,10.0,11.4,14.0
+AKA,2021-09-22,a.k.a. Brands Holding Corp.,11.0,26.21,138.27273
+ARGU,2021-09-22,Argus Capital Corp.,10.0,10.26,2.6
+IPAX,2021-09-22,Inflection Point Acquisition Corp.,10.0,10.42,4.2
+FRSH,2021-09-22,Freshworks Inc.,36.0,13.84,-61.55556
+TOST,2021-09-22,"Toast, Inc.",40.0,27.53,-31.175
+VBNK,2021-09-22,VersaBank,10.0,9.63,-3.7
+SOVO,2021-09-23,"Sovos Brands, Inc.",12.0,22.98,91.5
+ESMT,2021-09-23,"EngageSmart, Inc.",26.0,23.05,-11.34615
+RELY,2021-09-23,"Remitly Global, Inc.",43.0,14.2,-66.97674
+STER,2021-09-23,Sterling Check Corp.,23.0,15.5,-32.6087
+LOCC,2021-09-23,Live Oak Crestview Climate Acquisition Corp.,10.0,10.43,4.3
+BRLT,2021-09-23,"Brilliant Earth Group, Inc.",12.0,2.5,-79.16667
+THRN,2021-09-23,"Thorne HealthTech, Inc.",10.0,10.19,1.8999999999999906
+ARBK,2021-09-23,Argo Blockchain plc,15.0,1.38,-90.8
+HLTH,2021-09-24,Cue Health Inc.,16.0,0.1177,-99.26438
+GIA,2021-09-24,"GigCapital5, Inc.",,4.0,
+DSAQ,2021-09-24,Direct Selling Acquisition Corp.,10.0,11.25,12.5
+CWAN,2021-09-24,"Clearwater Analytics Holdings, Inc.",18.0,19.4,7.77778
+BACA,2021-09-28,Berenson Acquisition Corp. I,10.0,10.59,5.9
+PRBM,2021-09-28,Parabellum Acquisition Corp.,10.0,9.95,-0.5
+AMPL,2021-09-28,"Amplitude, Inc.",35.0,9.14,-73.88571
+HCVI,2021-09-29,Hennessy Capital Investment Corp. VI,10.0,10.55,5.5
+MEKA,2021-09-29,MELI Kaszek Pioneer Corp,10.0,10.3201,3.201
+WRBY,2021-09-29,Warby Parker Inc.,40.0,16.14,-59.65
+HPLT,2021-09-30,Home Plate Acquisition Corp.,10.0,10.52,5.201
+ARTE,2021-09-30,Artemis Strategic Investment Corporation,10.0,10.735,7.35
+OLPX,2021-09-30,"Olaplex Holdings, Inc.",21.0,1.65,-92.14286
+FWRG,2021-10-01,"First Watch Restaurant Group, Inc.",18.0,19.24,6.88889
+EXAI,2021-10-01,Exscientia plc,22.0,5.13,-76.68182
+TDCX,2021-10-01,TDCX Inc.,18.0,7.12,-60.5
+PYXS,2021-10-01,"Pyxis Oncology, Inc.",16.0,4.17,-73.9375
+DMYS,2021-10-01,"dMY Technology Group, Inc. VI",10.0,10.25,2.5
+MTRY,2021-10-01,Monterey Bio Acquisition Corporation,10.0,11.14,11.4
+GATE,2021-10-01,Marblegate Acquisition Corp.,10.0,10.71,7.1
+BHAC,2021-10-05,Focus Impact BH3 Acquisition Co.,10.0,10.57,5.7
+RNER,2021-10-05,Mount Rainier Acquisition Corp.,10.0,4.99,-50.1
+PCX,2021-10-06,Parsec Capital Acquisitions Corp.,10.0,10.2,2.0000000000000018
+VLCN,2021-10-06,"Volcon, Inc.",5.5,0.283,-94.85455
+PBAX,2021-10-06,Phoenix Biotech Acquisition Corp.,10.0,5.85,-41.5
+NFYS,2021-10-06,Enphys Acquisition Corp.,10.0,10.9,9.0
+AVAC,2021-10-06,Avalon Acquisition Inc.,10.0,9.1,-9.0
+NVEI,2021-10-06,Nuvei Corporation,123.14,32.22,-73.83466
+LTH,2021-10-07,"Life Time Group Holdings, Inc.",18.0,15.62,-13.22222
+TCN,2021-10-07,Tricon Residential Inc.,12.4,11.25,-9.27419
+IXAQ,2021-10-07,IX Acquisition Corp.,10.0,11.3,13.0
+THRX,2021-10-07,"Theseus Pharmaceuticals, Inc.",16.0,4.06,-74.625
+ISO,2021-10-08,IsoPlexis Corporation,15.0,0.7616,-94.92267
+CGTX,2021-10-08,"Cognition Therapeutics, Inc.",12.0,1.94,-83.83333
+HWKZ,2021-10-08,Hawks Acquisition Corp,10.0,10.26,2.6
+SAMA,2021-10-08,Schultze Special Purpose Acquisition Corp. II,10.0,10.58,5.8
+JMAC,2021-10-08,Maxpro Capital Acquisition Corp.,10.0,10.81,8.1
+LCW,2021-10-08,Learn CW Investment Corporation,10.0,10.98,9.8
+GIAC,2021-10-12,Gesher I Acquisition Corp.,10.0,10.2301,2.301
+FATP,2021-10-13,Fat Projects Acquisition Corp,10.0,10.915,9.15
+HCTI,2021-10-13,"Healthcare Triangle, Inc.",4.0,0.7825,-80.4375
+AVDX,2021-10-13,"AvidXchange Holdings, Inc.",25.0,11.28,-54.88
+LUCD,2021-10-14,Lucid Diagnostics Inc.,14.0,0.89,-93.64286
+ROSE,2021-10-14,Rose Hill Acquisition Corporation,10.0,11.66,16.599999999999994
+BMAC,2021-10-14,Black Mountain Acquisition Corp.,10.0,10.6,6.0
+TRIS,2021-10-14,Tristar Acquisition I Corp.,10.0,11.06,10.6
+IHS,2021-10-14,IHS Holding Limited,21.0,3.39,-83.85714
+GTLB,2021-10-14,GitLab Inc.,77.0,56.5,-26.62338
+FNA,2021-10-15,"Paragon 28, Inc.",16.0,7.97,-50.1875
+CDAQ,2021-10-15,Compass Digital Acquisition Corp.,10.0,10.82,8.2
+PEPL,2021-10-15,PepperLime Health Acquisition Corporation,10.0,10.91,9.1
+INKT,2021-10-15,"MiNK Therapeutics, Inc.",12.0,1.04,-91.33333
+AVHI,2021-10-15,Achari Ventures Holdings Corp. I,10.0,11.0,10.0
+SANB,2021-10-15,Sanaby Health Acquisition Corp. I,10.0,10.21,2.100000000000013
+FOUN,2021-10-15,Founder SPAC,10.0,9.81,-1.8999999999999906
+SMAP,2021-10-19,SportsMap Tech Acquisition Corp.,10.0,6.82,-31.8
+BMAQ,2021-10-19,Blockchain Moon Acquisition Corp.,10.0,10.47,4.700000000000015
+FEXD,2021-10-19,Fintech Ecosystem Development Corp.,10.0,11.23,12.3
+ENTF,2021-10-19,Enterprise 4.0 Technology Acquisition Corp.,10.0,10.67,6.7
+CNTX,2021-10-20,Context Therapeutics Inc.,5.0,1.8,-64.0
+ESAC,2021-10-20,ESGEN Acquisition Corporation,10.0,6.97,-30.3
+NCAC,2021-10-20,Newcourt Acquisition Corp,10.0,4.79,-52.1
+CYN,2021-10-20,Cyngn Inc.,7.5,0.126,-98.32
+ACAQ,2021-10-20,Athena Consumer Acquisition Corp.,10.0,2.55,-74.5
+WWAC,2021-10-20,Worldwide Webb Acquisition Corp.,10.0,2.65,-73.5
+SDIG,2021-10-20,"Stronghold Digital Mining, Inc.",19.0,2.93,-84.57895
+AXH,2021-10-20,"Industrial Human Capital, Inc.",10.0,10.22,
+COCO,2021-10-21,"The Vita Coco Company, Inc.",15.0,26.26,75.06667
+PX,2021-10-21,"P10, Inc.",12.0,8.29,-30.91667
+ENFN,2021-10-21,"Enfusion, Inc.",17.0,9.64,-43.29412
+PTLO,2021-10-21,Portillo's Inc.,20.0,10.92,-45.4
+RWAY,2021-10-21,Runway Growth Finance Corp.,14.6,11.73,-19.65753
+VTYX,2021-10-21,"Ventyx Biosciences, Inc.",16.0,4.98,-68.875
+NHIC,2021-10-21,NewHold Investment Corp. II,10.0,10.26,2.6
+THAC,2021-10-21,Thrive Acquisition Corporation,10.0,10.355,3.55
+ENER,2021-10-21,Accretion Acquisition Corp.,10.0,10.5601,5.601
+XFIN,2021-10-21,ExcelFin Acquisition Corp.,10.0,10.96,11.0
+GOGN,2021-10-21,GoGreen Investments Corporation,10.0,12.5,25.0
+GTAC,2021-10-21,Global Technology Acquisition Corp. I,10.0,11.19,11.9
+MBSC,2021-10-22,M3-Brigade Acquisition III Corp.,10.0,9.37,-6.3
+ARIS,2021-10-22,"Aris Water Solutions, Inc.",13.0,16.42,26.30769
+PGSS,2021-10-22,Pegasus Digital Mobility Acquisition Corp.,10.0,6.0,-40.0
+XLO,2021-10-22,"Xilio Therapeutics, Inc.",16.0,1.08,-93.25
+ICNC,2021-10-22,Iconic Sports Acquisition Corp.,10.0,10.81,8.1
+UTRS,2021-10-22,"Minerva Surgical, Inc.",12.0,0.001,-99.99167
+INFA,2021-10-27,Informatica Inc.,29.0,29.56,1.93103
+PHYT,2021-10-27,Pyrophyte Acquisition Corp.,10.0,11.38,13.8
+LVAC,2021-10-27,LAVA Medtech Acquisition Corp.,10.0,10.44,4.4
+AIP,2021-10-27,"Arteris, Inc.",14.0,8.14,-41.85714
+USCTF,2021-10-27,Roth CH Acquisition Co.,10.0,11.25,12.5
+OHAA,2021-10-27,OPY Acquisition Corp. I,10.0,10.49,4.9
+MRAI,2021-10-27,"Marpai, Inc.",4.0,2.02,-49.5
+DMAQ,2021-10-27,Deep Medicine Acquisition Corp.,10.0,2.96,-70.4
+IOAC,2021-10-27,Innovative International Acquisition Corp.,10.0,9.6,-4.0
+RENT,2021-10-27,"Rent the Runway, Inc.",21.0,29.44,40.19048
+PCCT,2021-10-28,Perception Capital Corp. II,10.0,,
+FIAC,2021-10-28,Focus Impact Acquisition Corp.,10.0,11.1,11.0
+DTC,2021-10-28,"Solo Brands, Inc.",17.0,2.04,-88.0
+SCMA,2021-10-28,Seaport Calibre Materials Acquisition Corp.,10.0,10.39,3.9
+ADAL,2021-10-28,Anthemis Digital Acquisitions I Corp,10.0,10.47,4.7
+FLNC,2021-10-28,"Fluence Energy, Inc.",28.0,18.26,-34.78571
+GFS,2021-10-28,GLOBALFOUNDRIES Inc.,47.0,54.18,15.2766
+UDMY,2021-10-29,"Udemy, Inc.",29.0,9.89,-65.89655
+BFRI,2021-10-29,Biofrontera Inc.,5.0,1.09,-78.2
+HRT,2021-10-29,HireRight Holdings Corporation,19.0,14.33,-24.57895
+TRDA,2021-10-29,"Entrada Therapeutics, Inc.",20.0,14.95,-25.25
+ARCK,2021-10-29,Arbor Rapha Capital Bioholdings Corp. I,10.0,11.9,19.0
+AIRS,2021-10-29,"AirSculpt Technologies, Inc.",11.0,4.32,-60.72727
+AURA,2021-10-29,"Aura Biosciences, Inc.",14.0,7.2,-48.57143
+PEGR,2021-10-29,Project Energy Reimagined Acquisition Corp.,10.0,8.82,-11.8
+AEAE,2021-10-29,AltEnergy Acquisition Corp.,10.0,11.5,15.0
+CCTS,2021-10-29,Cactus Acquisition Corp. 1 Limited,10.0,11.3,22.9
+SONX,2021-10-29,"Sonendo, Inc.",12.0,0.1,-99.16667
+SEDA,2021-10-29,SDCL EDGE Acquisition Corporation,10.0,11.05,10.5
+LIANY,2021-11-01,LianBio,16.0,0.3022,-98.11125
+VSAC,2021-11-01,Vision Sensing Acquisition Corp.,10.0,11.13,11.3
+LIBY,2021-11-01,Liberty Resources Acquisition Corp.,10.0,11.09,10.9
+BIRD,2021-11-03,"Allbirds, Inc.",15.0,0.7608,-94.928
+CMTG,2021-11-03,"Claros Mortgage Trust, Inc.",18.65,8.59,-53.94102
+TRAQ,2021-11-03,Trine II Acquisition Corp.,10.0,10.5,5.0
+ONYX,2021-11-03,Onyx Acquisition Co. I,10.0,11.2,12.0
+MLAI,2021-11-03,McLaren Technology Acquisition Corp.,10.0,10.39,3.9
+INTE,2021-11-03,Integral Acquisition Corporation 1,10.0,10.94,9.4
+TGVC,2021-11-03,TG Venture Acquisition Corp.,10.0,10.81,8.1
+FRLA,2021-11-03,Fortune Rise Acquisition Corporation,10.0,11.25,12.5
+ARHS,2021-11-04,"Arhaus, Inc.",13.0,16.42,26.30769
+EVO,2021-11-04,Evotec SE,26.16,5.49,-79.01376
+CDRE,2021-11-04,"Cadre Holdings, Inc.",13.0,29.9,130.0
+NRDS,2021-11-04,"NerdWallet, Inc.",18.0,13.74,-23.66667
+SHCA,2021-11-04,Spindletop Health Acquisition Corp.,10.0,10.0551,0.551
+TOAC,2021-11-04,Talon 1 Acquisition Corp.,10.0,10.55,5.5
+JUN,2021-11-04,Juniper II Corp.,10.0,10.59,5.9
+MPRA,2021-11-04,Mercato Partners Acquisition Corporation,10.0,11.51,15.1
+SZZL,2021-11-04,Sizzle Acquisition Corp.,10.0,22.5,125.0
+CNDB,2021-11-04,Concord Acquisition Corp III,10.0,6.58,-34.2
+MDXH,2021-11-04,MDxHealth SA,13.46,2.86,-78.75186
+LGST,2021-11-04,Semper Paratus Acquisition Corporation,10.0,4.51,-54.9
+DHAC,2021-11-04,Digital Health Acquisition Corp.,10.0,13.4,34.0
+LION,2021-11-04,Lionheart III Corp.,10.0,6.44,-35.6
+FNVT,2021-11-04,Finnovate Acquisition Corp.,10.0,11.32,13.2
+RRAC,2021-11-05,Rigel Resource Acquisition Corp.,10.0,11.26,12.6
+MCAA,2021-11-05,Mountain & Co. I Acquisition Corp.,10.0,11.56,15.6
+SVNA,2021-11-05,7 Acquisition Corporation,10.0,10.5,5.0
+CIAN,2021-11-05,Cian PLC,16.0,,
+NPAB,2021-11-05,New Providence Acquisition Corp. II,10.0,10.9,9.0
+IOBT,2021-11-05,"IO Biotech, Inc.",14.0,1.4,-90.0
+IQMD,2021-11-05,Intelligent Medicine Acquisition Corp.,10.0,11.04,10.4
+RGF,2021-11-05,"The Real Good Food Company, Inc.",12.0,0.523,-95.64167
+MYNZ,2021-11-05,Mainz Biomed B.V.,5.0,0.642,-87.16
+HTAQ,2021-11-09,Hunt Companies Acquisition Corp. I,10.0,10.19,1.8999999999999906
+SOPA,2021-11-09,Society Pass Incorporated,9.0,1.84,-79.55556
+SWAG,2021-11-09,Stran & Company Inc,4.15,1.231,-70.33735
+OLIT,2021-11-09,OmniLit Acquisition Corp.,10.0,8.44,-15.6
+DPCS,2021-11-09,DP Cap Acquisition Corp I,10.0,11.15,11.4
+APNC,2021-11-09,Apeiron Capital Investment Corp.,10.0,,
+GVCI,2021-11-09,Green Visor Financial Technology Acquisition Corp. I,10.0,10.59,5.9
+TCBX,2021-11-09,"Third Coast Bancshares, Inc.",25.0,21.32,-14.72
+RIVN,2021-11-10,"Rivian Automotive, Inc.",78.0,10.13,-87.01282
+ACDI,2021-11-10,Ascendant Digital Acquisition Corp. III,10.0,10.38,3.8
+BCSA,2021-11-10,Blockchain Coinvestors Acquisition Corp. I,10.0,11.21,12.1
+EXFY,2021-11-10,"Expensify, Inc.",27.0,1.71,-93.66667
+CINT,2021-11-10,CI&T Inc,15.0,3.38,-77.46667
+CBRG,2021-11-10,Chain Bridge I,10.0,11.24,12.4
+BJDX,2021-11-10,"Bluejay Diagnostics, Inc.",10.0,0.575,-94.25
+AFAC,2021-11-10,Arena Fortify Acquisition Corp.,10.0,10.27,2.6999999999999913
+RCFA,2021-11-10,RCF Acquisition Corp.,10.0,11.2401,12.401
+WEAV,2021-11-11,"Weave Communications, Inc.",24.0,9.13,-61.95833
+BLZE,2021-11-11,"Backblaze, Inc.",16.0,7.28,-54.5
+VMGA,2021-11-11,VMG Consumer Acquisition Corp.,10.0,10.41,4.1
+LVLU,2021-11-11,"Lulu's Fashion Lounge Holdings, Inc.",16.0,1.76,-89.0
+BEAT,2021-11-11,"HeartBeam, Inc.",6.0,2.11,-64.83333
+LGVC,2021-11-11,LAMF Global Ventures Corp. I,10.0,8.11,-18.9
+PIK,2021-11-11,Kidpik Corp.,8.5,3.3,-61.17647
+WBEV,2021-11-11,"Winc, Inc.",13.0,0.14,
+TIVC,2021-11-11,"Tivic Health Systems, Inc.",5.0,0.485,-90.3
+VAXX,2021-11-11,"Vaxxinity, Inc.",13.0,0.0555,-99.57308
+BTBD,2021-11-12,"BT Brands, Inc.",5.0,1.34,-72.4
+MCAG,2021-11-12,Mountain Crest Acquisition Corp. V,10.0,10.7,7.0
+DERM,2021-11-12,Journey Medical Corporation,10.0,3.62,-63.8
+MYNA,2021-11-12,Mynaric AG,17.48,5.27,-69.85126
+IRRX,2021-11-12,Integrated Rail and Resources Acquisition Corp.,10.0,10.95,9.5
+ENCP,2021-11-16,Energem Corp.,10.0,12.25,22.5
+BRZE,2021-11-17,"Braze, Inc.",65.0,42.02,-35.35385
+NETC,2021-11-17,Nabors Energy Transition Corp.,10.0,11.0,10.0
+USER,2021-11-17,"UserTesting, Inc.",14.0,,
+SUAC,2021-11-17,ShoulderUp Technology Acquisition Corp.,10.0,10.7,6.999999999999984
+IREN,2021-11-17,Iris Energy Limited,28.0,5.83,-79.17857
+SGII,2021-11-17,Seaport Global Acquisition II Corp.,10.0,10.81,8.1
+LFAC,2021-11-17,LF Capital Acquisition Corp. II,10.0,10.84,8.4
+SEVCF,2021-11-17,Sono Group N.V.,,0.02,
+ARIZ,2021-11-18,Arisz Acquisition Corp.,10.0,6.03,-39.7
+BLEU,2021-11-18,bleuacacia ltd,10.0,10.88,8.8
+SG,2021-11-18,"Sweetgreen, Inc.",28.0,31.78,13.5
+ZING,2021-11-19,FTAC Zeus Acquisition Corp.,10.0,10.485,4.85
+NFNT,2021-11-19,Infinite Acquisition Corp.,10.0,10.84,8.400000000000007
+FINW,2021-11-19,FinWise Bancorp,10.5,10.65,1.42857
+IFIN,2021-11-19,InFinT Acquisition Corporation,10.0,11.5,15.0
+ALOR,2021-11-19,ALSP Orchid Acquisition Corporation I,10.0,10.88,8.8
+CREEF,2021-11-19,Crescera Capital Acquisition Corp.,10.0,10.94,9.4
+LITM,2021-11-19,Snow Lake Resources Ltd.,7.5,0.833,-88.89333
+AHI,2021-11-19,Advanced Human Imaging Limited,10.5,1.5,-85.71429
+LAX,2021-11-22,8i Acquisition 2 Corp.,10.0,4.3006,-57.00000000000001
+LGTO,2021-11-22,Legato Merger Corp. II,10.0,8.94,-10.6
+MAAQ,2021-11-23,Mana Capital Acquisition Corp.,10.0,5.99,-40.1
+VHNA,2021-11-23,Vahanna Tech Edge Acquisition I Corp.,10.0,11.12,11.2
+BRD,2021-11-24,Beard Energy Transition Acquisition Corp.,10.0,10.73,7.3
+MKULQ,2021-11-24,Molekule Group Inc.,,0.0004,
+MNTN,2021-11-24,Everest Consolidator Acquisition Corporation,10.0,11.26,12.6
+CNGL,2021-11-30,Canna-Global Acquisition Corp,10.0,11.28,12.8
+ROCL,2021-12-01,Roth Ch Acquisition V Co.,10.0,10.9,9.0
+CMCA,2021-12-01,Capitalworks Emerging Markets Acquisition Corp,10.0,11.05,10.5
+PACI,2021-12-01,PROOF Acquisition Corp I,10.0,14.5,45.0
+TLGY,2021-12-01,TLGY Acquisition Corporation,10.0,11.41,14.1
+ROC,2021-12-02,ROC Energy Acquisition Corp.,10.0,4.61,-49.1
+GEEX,2021-12-02,Games & Esports Experience Acquisition Corp.,10.0,10.53,5.3
+UTAA,2021-12-02,UTA Acquisition Corporation,10.0,10.67,6.7
+STET,2021-12-03,ST Energy Transition I Ltd.,10.0,10.49,4.9
+BPAC,2021-12-03,Bullpen Parlay Acquisition Company,10.0,10.48,4.8
+BIOS,2021-12-03,BioPlus Acquisition Corp.,10.0,10.795,7.95
+BOCN,2021-12-03,Blue Ocean Acquisition Corp.,10.0,11.14,11.4
+GLLI,2021-12-07,Globalink Investment Inc.,10.0,11.18,11.8
+JWAC,2021-12-07,Jupiter Wellness Acquisition Corp.,10.0,5.65,-43.5
+APXI,2021-12-07,APx Acquisition Corp. I,10.0,11.4901,14.901
+DAOO,2021-12-07,Crypto 1 Acquisition Corp.,10.0,10.13,1.3
+MTVC,2021-12-07,Motive Capital Corp II,10.0,10.51,5.1
+CING,2021-12-08,Cingulate Inc.,6.0,0.79,-86.83333
+REFI,2021-12-08,"Chicago Atlantic Real Estate Finance, Inc.",16.0,15.59,-2.5625
+SCUA,2021-12-09,Sculptor Acquisition Corp I,10.0,10.52,5.2
+NU,2021-12-09,Nu Holdings Ltd.,9.0,11.71,30.11111
+HCP,2021-12-09,"HashiCorp, Inc.",80.0,32.93,-58.8375
+HORI,2021-12-09,Emerging Markets Horizon Corp.,10.0,10.4,4.0
+RJAC,2021-12-09,Jackson Acquisition Company,10.0,10.39,3.9
+WEL,2021-12-09,Integrated Wellness Acquisition Corp,10.0,11.48,14.8
+TGAA,2021-12-09,Target Global Acquisition I Corp.,10.0,11.3,13.0
+NRSN,2021-12-09,NeuroSense Therapeutics Ltd.,6.0,1.22,-79.83333
+GGAA,2021-12-09,Genesis Growth Tech Acquisition Corp.,10.0,,
+IGTA,2021-12-09,Inception Growth Acquisition Limited,10.0,11.15,11.5
+GFGD,2021-12-10,The Growth for Good Acquisition Corporation,10.0,10.53,5.3
+XPDB,2021-12-10,Power & Digital Infrastructure Acquisition II Corp.,10.0,19.4,94.0
+ATEK,2021-12-10,Athena Technology Acquisition Corp. II,10.0,11.3,13.0
+TCOA,2021-12-10,Zalatoris Acquisition Corp,10.0,11.02,10.2
+FRBN,2021-12-10,Forbion European Acquisition Corp.,10.0,21.13,116.95
+FXCO,2021-12-10,Financial Strategies Acquisition Corp.,10.0,11.0,10.0
+HAIA,2021-12-10,Healthcare AI Acquisition Corp.,10.0,11.14,11.4
+PORT,2021-12-10,Southport Acquisition Corporation,10.0,11.5,15.0
+ALSA,2021-12-13,Alpha Star Acquisition Corporation,10.0,11.4,14.0
+BRKH,2021-12-13,Burtech Acquisition Corp.,10.0,11.09,10.9
+VINE,2021-12-14,"Fresh Vine Wine, Inc.",10.0,0.605,-93.95
+SIDU,2021-12-14,"Sidus Space, Inc.",5.0,3.3,-34.0
+KACL,2021-12-14,Kairous Acquisition Corp. Limited,10.0,11.77,17.7
+EVE,2021-12-15,EVe Mobility Acquisition Corp,10.0,11.04,10.4
+AHRN,2021-12-15,Ahren Acquisition Corp.,10.0,10.49,4.9
+IVCB,2021-12-15,Investcorp Europe Acquisition Corp I,10.0,11.33,13.3
+IOT,2021-12-15,Samsara Inc.,23.0,40.62,76.6087
+PRLH,2021-12-15,Pearl Holdings Acquisition Corp,10.0,10.95,9.5
+IVCP,2021-12-15,Swiftmerge Acquisition Corp.,10.0,10.85,8.5
+GNTA,2021-12-15,Genenta Science S.p.A.,11.5,3.18,-72.34783
+BFAC,2021-12-15,Battery Future Acquisition Corp.,10.0,11.01,10.1
+SANG,2021-12-16,Sangoma Technologies Corporation,22.68,4.6,-79.71781
+SHAP,2021-12-16,Spree Acquisition Corp. 1 Limited,10.0,10.91,9.1
+CFFS,2021-12-16,CF Acquisition Corp. VII,10.0,11.0,9.0
+EMLD,2021-12-16,FTAC Emerald Acquisition Corp.,10.0,10.7,7.0
+ADRT,2021-12-16,Ault Disruptive Technologies Corporation,10.0,14.0,40.0
+BNOX,2021-12-16,Bionomics Limited,15.45,0.9228,-94.02718
+IMMX,2021-12-16,"Immix Biopharma, Inc.",5.0,2.25,-55.0
+RCAC,2021-12-17,Revelstone Capital Acquisition Corp.,10.0,10.65,6.5
+APCA,2021-12-17,AP Acquisition Corp.,10.0,11.4,14.0
+NVAC,2021-12-21,NorthView Acquisition Corporation,10.0,11.31,13.1
+LSPR,2021-12-21,Larkspur Health Acquisition Corp.,10.0,22.5,125.0
+SAGA,2021-12-21,Sagaliam Acquisition Corp.,10.0,10.88,8.800000000000008
+NXGL,2021-12-22,"NEXGEL, Inc.",5.5,2.29,-58.36364
+GDNR,2021-12-22,Gardiner Healthcare Acquisitions Corp.,10.0,10.9,9.0
+AOGO,2021-12-27,Arogo Capital Acquisition Corp.,10.0,10.93,9.3
+WTMA,2021-12-28,Welsbach Technology Metals Acquisition Corp.,10.0,11.05,10.5
+GMFI,2021-12-30,Aetherium Acquisition Corp.,10.0,11.34,13.432
